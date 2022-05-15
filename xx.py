@@ -32,9 +32,10 @@ def scrope(pic_path):
     #print(len(src))
     dicfile=open('file.txt','a+',encoding='utf-8')
     for key in range(len(src)):
-        if src[key]['words'] in ["我发起了课程签到，请及时处理","课程签到提醒","在","在的"]:
+        if src[key]['words'] in ["我发起了课程签到，请及时处理","课程签到提醒",]and src[key]['words']not in ["签到结束","已签到"] :
             wern = 1
-
+        if src[key]['words'] in ["在","在的"]:
+            wern = 2
         # else:
         #     for x in src[key]['words']:
         #         if x in "签到结束时间":
@@ -44,23 +45,27 @@ def scrope(pic_path):
 
         dicfile.write(src[key]['words'])
         dicfile.write('\n')
-        print(src[key]['words'])
+        # print(src[key]['words'])
     dicfile.close()
     return wern
 
 
 if __name__ == '__main__':
+    times = 2
+    num = 1
     while 1:
-        time.sleep(1)
+        time.sleep(times)
         img = pyautogui.screenshot(region=[370,300, 800, 570])  # 分别代表：左上角坐标，宽高
         # 对获取的图片转换成二维矩阵形式，后再将RGB转成BGR
         # 因为imshow,默认通道顺序是BGR，而pyautogui默认是RGB所以要转换一下，不然会有点问题
         img = cv2.cvtColor(np.asarray(img), cv2.COLOR_RGB2BGR)
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         #cv2.imshow("截屏", gray)
+        if num == 1:
+            cv2.imwrite('dashen_compressed.png', gray, [cv2.IMWRITE_PNG_COMPRESSION, 0])
         gray2 = cv2.cvtColor(cv2.imread('dashen_compressed.png'), cv2.COLOR_BGR2GRAY)
-        print(np.mean(gray-gray2))
-        print(np.mean(gray - gray2))
+        # print(np.mean(gray-gray2))
+        # print(np.mean(gray - gray2))
         print(np.mean(gray - gray2))
         if np.mean(gray-gray2) >2:
             cv2.imwrite('dashen_compressed.png', gray, [cv2.IMWRITE_PNG_COMPRESSION, 0])
@@ -68,13 +73,14 @@ if __name__ == '__main__':
             # pic_path=r'111.png'
             wern = scrope(pic_path)
             print(wern)
-            if wern==1:
-                ret = loop()
+            if wern!=0:
+                ret = loop(wern)
                 if ret:
                     print("邮件发送成功")
                 else:
                     print("邮件发送失败")
                 times = 1000
+                num = 0
             else:
-                times = 1
-            time.sleep(times)
+                times = 2
+        num = num + 1
