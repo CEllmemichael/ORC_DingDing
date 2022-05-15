@@ -30,7 +30,7 @@ def mail(my_user,wern):
     return ret
 
 def loop(wern):
-    mail_daress= ["1834719615@qq.com","1263795805@qq.com","1055308565@qq.com"]#,"1204191514@qq.com","1055308565@qq.com","2294825149@qq.com","2810051559@qq.com"]
+    mail_daress= ["1834719615@qq.com"]#,"1263795805@qq.com","1055308565@qq.com"]#,"1204191514@qq.com","1055308565@qq.com","2294825149@qq.com","2810051559@qq.com"]
     for my_user in mail_daress:
         n = mail(my_user,wern)
     return n

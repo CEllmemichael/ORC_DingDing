@@ -21172,3 +21172,2821 @@ NEW
 b@
 同自
 04-01
+入寸厂N
+print(np.mean(gray-
+print(np.mean(gray
+print(np.mean(gray
+13:55:34
+if np.mean(gray-gray2
+钱俊升
+cv2.imwrite('dash
+pic_path r"dash
+间：2023-05-0800：00
+pic_path=r'111.
+wern scrope(pic
+print(wern)
+钱俊升
+if wern!=0:
+这人能行
+sendgqmasg (we
+ret Loop(we
+钱俊升
+main
+〉
+while 1
+今年的作业明年交
+张海鹏190213376339182日照
+Data\Local\Programs\P
+666
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern！=o:
+sendqqmasg(wern)
+ret loop(wern)
+times 1000
+main 'while 1 >i
+if np.mean(gray-gray2)>2>if wern!=0
+Data\Local\Programs\Python\Python38\python.exe""C:\Users\WEI SHU HONG\PycharmPr
+俞雪锋（俞雪锋）
+雪锋
+钱俊升（钱俊升）
+04-25
+俊升
+2
+部
+04-15
+秦鹏（秦鹏）
+秦鹏
+1
+04-11
+孟令政（孟令政）
+令政
+1
+04-04
+04-01
+NEW
+凸@
+04-01
+13
+推荐
+强烈推荐
+14
+pe0ple=*米*#
+好友全称
+15
+message='*'#发送的消息
+16
+17
+Q0 dir=r'E:\Tencent\QQ\Bin\QQ.exe'#QQ路径
+18
+A和cuDNN
+19
+#判断0Q是否登录
+结业报告
+20
+def proc exist(process name):
+21
+pl psutil.pids()
+22
+for pid in pl:#通过办ID判断
+23
+if psutil.Process(pid).name()
+=process name:
+年8篇
+24
+return isinstance(pid,int)
+25
+26
+发送消息
+27
+def send msg(people,msg):
+28
+if proc exist('Q0.exe'):
+29
+#打开0Q主界面
+30
+gui.moveTo(1580,1080,duration=0.2)
+31
+gui.moveTo(1580,1050,duration=0.2)
+32
+gui.click()
+9Gy2-V2·V00TV2LeC
+uasnienl_compi csscu.plig
+●H
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern!=0:
+sendqqmasg(wern)
+ret loop(wern)
+times 1000
+main>while 1 if np.mean(gray-gray2)>2 if wern!=0
+=1
+Le 1:
+time.sleep(times)
+img=pyautogui.screenshot(region=[370,300,800,570])#分别代表：左上角坐标，宽高
+#对获取的图片转换成二维矩阵形式，后再将RGB转成BGR
+#因为imshow,默认通道顺序是BGR,而pyautoqui默认是RGB所以要转换一下，不然会有点问题
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+#cv2.imshow("截屏"qnay
+if num =1:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+gray2 cv2.cvtColor(cv2.imread('dashen_compressed.png'),cv2.COLOR_BGR2GRAY)
+nnint(nn mean(anav-anv2))
+==main 'while 1 if np.mean(gray-gray2)>2
+peoples=['政治觉悟提高群'，]
+msg='魏鸿的程序提示：有可能提问'
+米
+好友全称
+Loading…
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+gui.moveTo(1569,263,duration=0.2)
+gui.click()
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+Process 'main'Is Running
+gui.moveTo(1694,1058,duration
+Do you want to terminate the process 'main'?
+gui.moveTo(1694,1058,
+duratior
+Don't ask again
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+Terminate
+Disconnect
+Canc
+gui.moveTo(1569,263,
+durationo.
+gui.click()
+asg0
+Data\Local\Programs\Python\Python38\python.exe""C:\Users\WEI SHU HONG\PycharmPr
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sLeep(0.5)
+#搜索好友并打开聊天窗口
+gui.moveTo(1569,263,duration=0.2)
+gui.click()
+time.sleep(0.5)
+pyperclip.copy(people)
+gui.hotkey('ctrl','v')
+time.sLeep(0.5)
+gui.hotkey('Enter')
+time.sleep(1)
+#输入雲要发送的信息
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友金称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sLeep(0.5)
+#搜索好友并打开聊天窗口
+s on %s'(sys.version,sys.platform))
+\WEI SHU HONG\\PycharmProjects\\orcV1.0.0','C:/Users/WEI SHU HONG/PycharmProje
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sLeep(0.5)
+#搜索好友并打开聊天窗口
+asg0
+\WEI SHU HONG\\PycharmProjects\\orcV1.0.0','C:/Users/WEI SHU HONG/PycharmProje
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+gui.moveTo(1569,263,duration=0.2)
+gui.click()
+time.sleep(0.5)
+asg0
+\WEI SHU HONG\\PycharmProjects\\orcV1.0.0','C:/Users/WEI SHU HONG/PycharmProje
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+#隐藏主界面并退出聊天界面
+0.0
+编辑资料
+gui.m0veTo(1795,127,
+gui.click()
+张贺
+认速：物东大学信息与市气工程享底在教生
+。申情认速)
+time.sLeep(0.5)
+gui.hotkey('ctrl','w
+0.00学分
+100减信
+D0名片
+time.sleep(5)
+和落
+开
+asg(>for people in people
+●
+0
+全国
+程的
+义面
+12:24:58
+7,
+duration=0.5)
+w')
+G6言T四A
+コI
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,
+gui.click()
+13:55:34
+time.sLeep(0.5)
+钱俊升
+gui.hotkey('ctrl','w
+time.sleep(5)
+间：2023-05-0800：00
+钱俊升
+这人能行
+asg0>for people in people
+钱俊升
+今年的作业明年交
+面
+7,
+duration=0.5)
+张海鹏190213376339182日照
+666
+W')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+gui.moveTo(700,850,duration=0.2)
+gui.click()
+pyperclip.copy(msg)
+gui.hotkey('ctrl','v')
+gui.hotkey('Enter')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sleep(0.5)
+gui.hotkey('ctrl','w')
+asg(>for people in peoples
+义面
+7,duration=0.5)
+'W')
+gui.moveTo(700,850,duration=0.2)
+gui.click()
+pyperclip.copy(msg)
+gui.hotkey('ctrl','v')
+gui.hotkey('Enter')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sleep(0.5)
+gui.hotkey('ctrl','w')
+asg(>for people in peoples
+义面
+7,duration=0.5)
+'W')
+e
+peoples=['政治觉悟提高群']
+msg='魏树鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,
+duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+aui.moveTo(1569 263 duration=0.2)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+gui.hotkey('ctrl','v')
+time.sleep(0.5)
+gui.hotkey('Enter')
+time.sleep(1)
+#输入需要发送的信息
+gui.moveTo(700,900,duration=0.2)
+gui.click()
+pyperclip.copy(msg)
+gui.hotkey('ctrl','v')
+gui.hotkey('Enter')
+asg(>for people in peoples
+义面
+7,duration=0.5)
+'W')
+gui.hotkey('ctrl','v')
+time.sleep(0.5)
+gui.hotkey('Enter')
+time.sleep(1)
+#输入需要发送的信息
+gui.moveTo(700,900,duration=0.2)
+gui.click()
+pyperclip.copy(msg)
+gui.hotkey('ctrl','v')
+gui.hotkey('Enter')
+asg0 for people in peoples
+duration=0.2)
+'v')
+gui.hotkey('ctrl'
+0.00学分
+100减信
+0名片
+time.sleep(0.5)
+0
+gui.hotkey('Enter
+器助
+落
+展开
+time.sleep(1)
+#输入需要发送的信息
+gui.moveTo(700,96
+gui.click()
+pyperclip.copy(msc
+●
+0
+9
+gui.hotkey('ctrl'
+gui.hotkey('Enter
+12:24:58
+asg(for people in pe
+14:00:21
+duration=0.2)
+魏树鸿的程序提示：有可能提问
+V')
+←)
+gui.hotkey('ctrl'
+张贺
+time.sleep(0.5)
+认速：物东大学信息与电气工程字院在较生
+。中请认速>
+gui.hotkey('Enter
+0.00学分
+100减越
+0名片
+time.sleep(1)
+得办
+开
+#输入需要发送的信息
+gui.moveTo(700,90
+gui.click()
+pyperclip.copy(msc
+gui.hotkey('ctrl'
+gui.hotkey('Enter
+⊙
+0
+本校
+拉的
+asg(>for people in pe
+12:24:58
+duration=0.2)
+你撤回了条消息重新编辑
+V')
+gui.hotkey('ctrl','v')
+gui.hotkey('Enter')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg(>for people in peoples
+duration=0.2)
+'v')
+gui.hotkey('ctrl','v')
+gui.hotkey('Enter')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sleep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+duration=0.2)
+'v')
+gui.hotkey('ctrl','v')
+gui.hotkey('Enter')
+#隐藏主乐
+Show Context Actions
+Alt+Enter
+gui.move
+Cut
+Ctrl+X
+gui.clic
+目Copy
+Ctrl+C
+time.sle
+□Paste
+Ctrl+V
+gui.hotk
+Copy Paste Special
+>
+time.sle
+Column Selection Mode
+Alt+Shift+Insert
+Find in Files
+Find Usages
+Alt+F7
+Refactor
+>
+Folding
+Search with Google
+duratic
+Go To
+>
+Generate...
+Alt+Insert
+V')
+Run 'qqmsg
+Ctrl+Shift+F10
+Debug 'qqmsg
+Modify Run Configuration...
+gui.hotkey('ctrl','v')
+gui.hotkey('Enter')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg(>for people in peoples
+uration=0.5)
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5>
+asg0 for people in peoples
+uration=0.5)
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+asg(for people in peoples
+uration=0.5)
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+Show Context Actions
+Alt+Enter
+time.sLeep(0.5)
+Cut
+Ctrl+X
+gui.hotkey('ctr
+自Copy
+Ctrl+C
+time.sleep(5)
+Paste
+Ctrl+V
+Copy Paste Special
+>
+Column Selection Mode
+Alt+Shift+Insert
+Find in Files
+Find Usages
+Alt+F7
+Refactor
+>
+asg(for people in
+Folding
+>
+Search with Google
+uration=0.5)
+Go To
+>
+Generate.…
+Alt+Insert
+Run 'qqmsg'
+Ctrl+Shift+F10
+年Debug'qqmsg'
+Modify Run Configuration...
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+0.00学分
+100流信
+0名片
+#隐藏主界面并退出聊天
+gui.moveTo(1795,
+gui.click()
+开
+time.sLeep(0.5)
+gui.hotkey('ctrl'
+time.sleep(5)
+本校
+金国
+拉的
+12:24:58
+asg(for people in pe
+义面
+你撤回了条消息重新编辑
+7,
+duration=0.5)
+魏树鸿的程序提示：有可能提问
+w')
+G配6言T四A
+←)
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+#隐藏主界面并退出聊天
+多选
+gui.moveTo(1795,
+得办
+落
+数
+开
+gui.click()
+设为精华
+time.sleep(0.5)
+添加到我的收藏
+gui.hotkey('ctrl'
+因
+time.sleep(5)
+发送到
+0
+单独回复
+全国
+品
+显示比例
+12:24:58
+使用多彩气泡
+asg(for people in pe
+设置多彩气泡
+14:00:21
+面
+你撤回了条消息重新编辑
+删除
+7,
+duration=0.5)
+清屏
+魏树鸿的程序提示：
+月心定叮
+w')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+#隐藏主界面并退出聊
+0.00学分
+100减信
+0名片
+gui.moveTo(1795,
+gui.click()
+得办
+活动
+和落
+数国
+开
+time.sLeep(0.5)
+gui.hotkey('ctrl'
+time.sleep(5)
+>
+●
+0
+全国
+我的
+12:24:58
+asg(for people in pe
+义面
+14:00:21
+7,
+duration=0.5)
+你撤回了一条消息
+重新编辑
+你撤回了条消息
+w')
+←)
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+peoples=['政治觉悟提高群']
+msg='魏对江鸿的程序提示：有可能提问'
+好友金称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+asg0 for people in peoples
+义面
+7,duration=0.5)
+w')
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+asg(>if message =1
+义面
+7,duration=0.5)
+w')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+7,duration=0.5)
+'w')
+#隐藏主界面并退出聊
+0.00学分
+100减信
+0名片
+gui.moveTo(1795,
+0
+gui.click()
+得办
+活动
+数国
+开
+time.sLeep(0.5)
+gui.hotkey('ctrl'
+time.sleep(5>
+●
+0
+全国
+我的
+12:24:58
+asg(for people in pe
+义面
+14:00:21
+7,
+duration=0.5)
+你撤回了一条消息
+重新编辑
+你撤回了条消息
+w')
+←
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+#隐藏主界面并退
+真吞
+gui.moveTo(17
+gui.click()
+BCCD
+time.sleep(0.
+gui.hotkey('c
+群号码857429273
+time.sleep(5)
+政治觉悟提高群
+i
+群名称
+政治觉悟提高群2
+群备注
+857429273
+添加2
+群介绍本群创建于2019/9/1：群主很
+群主/管理员
+-e
+asg0 for peopl
+成员分布(7/200)
+面
+心
+发消息
+duration=0
+85%
+100%
+14%
+活跃-6人
+男-7人
+利物浦-1人
+w')
+#隐藏主界面并退
+0
+gui.moveTo(17
+得办
+调动
+和落
+开
+gui.click()
+time.sLeep(0.
+gui.hotkey c
+time.sleep(5)
+正
+●
+0
+全国
+程的
+12:24:58
+asg0 for peopl
+14:00:21
+义面
+你撤回了条消息
+重新编辑
+7,
+duration=0
+你撤回了条消息
+你撤回了条消息
+w')
+G配6言T四A
+←→
+peoples=['政治觉悟提高群']
+msg='魏树鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,
+duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+aui.moveTo(1569 263 duration=0.2)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+w')
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友全称
+sg
+message
+people in peoples:
+gui.moveTo
+peoples:List[str]=['政治觉悟提高群'，'小垃纪大聪明（小熊）']
+gui.moveTo
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+asg(>for people in peoples
+义面
+duration=0.5)
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+gui.moveTo(1694,
+1058,duration=0.2)
+gui.m0VeTo(1694,1058,
+duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+asg(for people in peoples
+义面
+7,duration=0.5)
+w')
+peoples=['政治觉悟提高群']
+msg='魏鸿的程序提示：有可能提问'
+好友全称
+sg message
+people in peoples:
+gui.moveTo(1694,1058,duration=0.2)
+gui.moveTo(1694,1058,duration=0.2)
+gui.click()
+time.sleep(0.5)
+#搜索好友并打开聊天窗口
+asg(>if message =1
+义面
+7,duration=0.5)
+w')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(52
+asg(if message =1
+7,duration=0.5)
+'w')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+#隐藏主界面并退出聊天
+0
+gui.moveTo(1795,
+得办
+落
+开
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl'
+time.sleep(5)
+●
+0
+全国
+程的
+12:24:58
+asg(for people in pe
+14:00:21
+义面
+你撤回了条消息
+重新编辑
+7,
+duration=0.5)
+你撤回了条消息
+你撤回了条消息
+w')
+←
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+gui.click()
+time.sleep(0.5)
+gui.hotkey('ctrl',
+time.sleep(5)
+鸡蛋羹跟玉米没吃完
+饱了
+睡觉觉啦
+asg(>for people in peop
+义面
+7,
+duration=0.5)
+w')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+gui.click()
+鸡蛋羹跟玉米没吃完
+time.sleep(0.5)
+gui.hotkey('ctrl',
+time.sleep(5)
+饱了
+睡觉觉啦
+asg(>for people in peo
+义面
+14:02:47
+7,
+duration=0.5)
+魏树鸿的程序示
+w')
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+gui.click()
+time.sleep(0.5)
+gui.hotkey('ctrl',
+鸡蛋羹跟玉米没吃完
+time.sleep(5)
+饱了
+睡觉觉啦
+asg(for people in peo
+面
+7,
+duration=0.5)
+你撤回了一条消息重新编辑
+w')
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+gui.click()
+鸡蛋羹跟玉米没吃完
+time.sleep(0.5)
+gui.hotkey('ctrl',
+饱了
+time.sleep(5)
+睡觉觉啦
+asg(for people in peo
+面
+你撤回了条消息重新编辑
+7,
+duration=0.5)
+?????
+w')
+GIF
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl',
+0
+十
+time.sleep(5)
+本楼
+全国
+程的
+12:24:58
+14:00:21
+asg(>for people in peop
+你撤回了一条消息重新编辑
+你撤回了条消息
+义面
+你撤回了条消息
+7,
+duration=0.5)
+魏树鸿的程序提示：现在
+w')
+GIF
+6白T四A
+生心U世
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+gui.click()
+time.sleep(0.5)
+gui.hotkey('ctrl',
+time.sleep(5)
+你撤回了条消息重新绵
+?????
+asg0>for people in peop
+义面
+嗯？
+7,
+duration=0.5)
+醒啦？
+W')
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+gui.click()
+time.sleep(0.5)
+gui.hotkey('ctrl',
+你撤回了条消息重新绵
+time.sleep(5)
+?????
+嗯？
+asg0>for people in peop
+义面
+醒啦？
+7,
+duration=0.5)
+签到？
+W')
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+你撤回了条消息重新绵
+gui.click()
+time.sleep(0.5)
+?????
+gui.hotkey('ctrl',
+time.sleep(5)
+嗯？
+醒啦？
+asg0>for people in peop
+义面
+签到？
+7,
+duration=0.5)
+W')
+#隐藏主界面并退出聊天界
+?????
+gui.moveTo(1795,12
+gui.click()
+time.sleep(0.5)
+gui.hotkey('ctrl',
+time.sleep(5)
+嗯？
+醒啦？
+签到？
+asg0>for people in peop
+义面
+7,
+duration=0.5)
+W')
+#隐藏主界面并退出聊天界
+gui.moveTo(1795,12
+gui.click()
+time.sleep(0.5)
+嗯？
+gui.hotkey('ctrl',
+time.sleep(5)
+醒啦？
+签到？
+asg(>for people in peop
+义面
+7,
+duration=0.5)
+W')
+#隐藏主界面并退出聊天界面
+gui.moveTo(1795,127,duration=0.5)
+gui.click()
+time.sLeep(0.5)
+gui.hotkey('ctrl','w')
+time.sleep(5)
+asg0 for people in peoples
+义面
+7,duration=0.5)
+'W')
+times 1000
+num 0
+else:
+times 2
+num num +1
+==main while 1 if np.mean(gray-gray2)>2
+义面
+7,duration=0.5)
+'W')
+p(wern)
+daress=
+["18347196150qq.c0m""12637958050gq.c0m""10553085650qq.c0m"]共，"120419
+my user in mail_daress:
+n mail(my_user,wern)
+urn
+try
+义面
+7,duration=0.5)
+w')
+times 1000
+num 0
+else:
+times 2
+num num +1
+==main while 1 if np.mean(gray-gray2)>2 if wern!=0
+义面
+7,duration=0.5)
+'W')
+昵称
+男灼
+新建
+Microsof.
+回
+备注
+小垃
+回
+分组
+云彩
+118岁
+8月21日
+u교
+@@
+☆
+☆@☒
+☆
+小垃纪大聪明
+Q龄
+4年
+备注信息
+添加
+205
+小垃纪大聪明
+发消息
+小垃纪大聪明（小熊）的资料
+尚伍焊宫鲜
+,立口大芦旧
+小拉分大的
+昵称
+芜灼
+新建
+Keil
+Microsof.
+usia国
+备注
+小垃
+瓦
+分组
+云彩
+嗯？W
+又
+118岁
+8月21日
+zongjie.d.
+t
+@@
+醒啦？
+a
+☆
+小垃纪大聪明
+签到？
+Q龄
+4年
+UTTIIIOEI
+b
+备注信息
+添加
+205
+小垃纪大聪明
+发消息
+尚伍焊宫鲜
+小立经大的旧（小柴
+露小垃经
+times 100
+嗯？
+num 0
+else:
+times 2
+醒啦？
+numnum +1
+签到？
+==main 'while 1
+义面
+7,
+duration=0.5)
+9
+道
+w')
+如
+times 100
+签到？
+num 0
+else:
+times 2
+numnum +1
+这个东西叫啥
+=main 'while 1
+哪里有压迫
+义面
+7,
+duration=0.5)
+W')
+times 100
+张海鹏190213376339182日照
+num =0
+else:
+666
+times =2
+14:04:03
+num =num +1
+钱俊升
+明天停电好像
+钱俊升
+北23
+=main 'while 1
+钱俊升
+和西边这些
+义面
+7,
+duration=0.5)
+钱俊升
+停一天
+W')
+GIF
+times 100
+num 0
+else:
+times 2
+numnum +1
+这个东西叫啥
+哪里有压迫
+=main 'while 1
+义面
+7,
+duration=0.5)
+哪里就有反抗
+w')
+times 100
+num 0
+else:
+times 2
+numnum +1
+这个东西叫啥
+哪里有压迫
+=main 'while 1
+义面
+7,
+duration=0.5)
+w')
+GIF
+times 100
+num 0
+else:
+times 2
+这个东西叫啥
+numnum +1
+哪里有压迫
+哪里就有反抗
+==main 'while 1
+你不会中午没睡吧
+义面
+7,
+duration=0.5)
+W')
+times 100
+这个东西叫啥
+num 0
+else:
+times 2
+哪里有压迫
+numnum +1
+哪里就有反抗
+你不会中午没睡吧
+==main 'while 1
+义面
+7,
+duration=0.5)
+W')
+GIF
+治白T四阳
+times 1000
+num =0
+else:
+times 2
+num num +1
+==main while 1 if np.mean(gray-gray2)>2 if wern!=0
+义面
+7,duration=0.5)
+'W')
+times 1000
+num =0
+else:
+times 2
+numnum +1
+==main while 1 if np.mean(gray-gray2)>2 if wern!=0
+义面
+7,duration=0.5)
+'W')
+times 1000
+num 0
+else:
+times 2
+num num +1
+==main while 1 if np.mean(gray-gray2)>2 if wern!=0
+义面
+7,duration=0.5)
+'W')
+Le 1:
+time.sleep(times)
+img=pyautogui.screenshot(region:=[370,300,800,570])#分别代表：左上角坐标，宽高
+#对获取的图片转换成二维矩阵形式，后再将RGB转成BGR
+#因为imshow,默认通道顺序是BGR,而pyautogui默认是RGB所以要转换一下，不然会有点问题
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+共cv2.imshow("戴屏"graX
+if num =1:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+gray2 cv2.cvtColor(cv2.imread('dashen_compressed.png'),cv2.COLOR_BGR2GRAY)
+==main 'while 1 if np.mean(gray-gray2)>2 if wern!=0
+义面
+7,duration=0.5)
+w')
+time
+AipOcr(APP_ID,API_KEY,SECRET_KEY)
+图片”"n
+file_content(filePath):
+open(filePath,'rb')as fp:
+return fp.read()
+ope(pic-path):
+ge get_file_content(pic_path)
+如果有可选参数
+ions {
+义面
+7,duration=0.5)
+'W')
+n open(filePath,rb)as tp:
+return fp.read()
+ope(pic-path):
+ge get_file_content(pic_path)
+如果有可选参数”””
+ions {
+0
+0=0
+ions["Language_type"]="CHN_ENG"
+ions["detect_direction"]"true"
+ioncTudotoct 1anguano"1 utnuo
+rc[key]['words']
+n')
+]['words']
+井
+wern 2
+dicfile.write(src[key]['words']
+dicfile.write('\n')
+print(src[key]['words']
+file.close()
+urn wern
+me_-=='--main_-':
+es =2
+for key in range(len(src))
+rc[key]['words']
+n')
+]['words']
+#对获取的图片转换成二维矩阵形式，后再将RGB转成BGR
+#因为imshow,默认通道顺序是BGR,而pyautogui默认是RGB所以要转换一下，不然会有点问题
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+共cv2.imshow("戴屏"gay2
+if num ==1:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+gray2 cv2.cvtColor(cv2.imread('dashen_compressed.png')cv2.COLOR_BGR2GRAY)
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+for key in range(len(src))
+rc[key]['words']
+n')
+]['words']
+pic_path=r'111.png
+wern scrope(pic_path)
+print(wern)
+if wern0:
+sendqqmasg (wern)
+ret Loop(wern)
+times 1000
+num =0
+else:
+times 2
+num num +1
+==main 'while 1 if np.mean(gray-gray2)>2
+rc[key]['words']
+n')
+]['words']
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtCo
+cv2.cv2
+共cv2.1 nshow("截屏
+def cvtColor(src:Any,
+if num =1:
+code:Any,
+cv2.imwrite(
+dst:Any None,
+RITE_PNG_COMPRESSION,0]
+dstCn:Any None)->None
+gray2 cv2.cvtc
+cv2.COLOR_BGR2GRAY)
+#print(np.mean(
+You need a configured Python 2 SDK to
+#print(np.mean(
+render Epydoc docstrings
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+==main 'while 1
+rc[key]['words']
+n')
+]['words']
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+cy2 imshow("戴屏"gCay
+if num =1:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+gray2 cv2.cvtColor(cv2.imread('dashen_compressed.png'),cv2.COLOR_BGR2GRAY)
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+==main 'while 1
+rc[key]['words']
+n')
+]['words']
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern0:
+sendqqmasg(wern)
+ret Loop(wern)
+times 1000
+num =0
+==main 'while 1 if np.mean(gray-gray2)>2 if wern!=0
+rc[key]['words']
+n')
+]['words']
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern!=0:
+sendqqmasg(wern)
+ret Loop(wern)
+times 1000
+num =0
+==main 'while 1 if np.mean(gray-gray2)>2 if wern!=0
+rc[key]['words']
+n')
+]['words']
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern0:
+sendqqmasg (wern)
+ret Loop(wern)
+times 1000
+num =0
+==main 'while 1 if np.mean(gray-gray2)>2 if wern!=0
+rc[key]['words']
+n')
+]['words']
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern!=0:
+sendqqmasg(wern)
+ret Loop(wern)
+times 1000
+num =0
+==main 'while 1 if np.mean(gray-gray2)>2 if wern!=0
+rc[key]['words']
+n')
+]['words']
+if np.mean(gray-gra
+cv2.imwrite('da
+pic_path r"da
+pic_path=r'11
+wern scrope(p
+print(wern)
+●
+0
+我的
+if wern！=0:
+sendqqmasg(
+12:24:58
+ret loop(
+times
+100
+num
+1=0
+14:00:22
+=='main'〉
+while 1
+你撤回了条消息
+14:00:56
+你撤回了条消息
+你撤回了条消息
+你撤回了一条消息
+GIF
+6白T四A
+if np.mean(gray-gra
+cv2.imwrite('da
+pic_path r"da
+pic_path=r'11
+wern scrope(p
+那下午不困嘛
+print(wern)
+if wern！=0:
+sendqqmasg(
+ret loop(
+times
+100
+num
+1=0
+你的黑眼圈
+=='main'〉
+while 1
+快赶上
+大熊猫了
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern!=0:
+sendqqmasg(wern)
+ret Loop(wern)
+times 1000
+num =0
+==main 'while 1 if np.mean(gray-gray2)>2 if wern!=0
+「T
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern!=0:
+sendqqmasg(wern)
+ret Loop(wern)
+times 1000
+num =0
+==main 'while 1 if np.mean(gray-gray2)>2 if wern!=0
+小立经大说明
+宁以世
+if np.mean(gr
+cv2.imwri
+设为精华
+pic_path
+●
+0
+肉
+添加到我的收藏
+pic_pat
+校
+全国
+我的
+wern sc
+发送到
+print(wer
+正
+12:24:58
+if wern！=
+单独回复
+sendg
+显示比例
+ret
+14:00:21
+times
+你撤回了条消息
+使用多彩气泡
+num
+14:00:56
+设置多彩气泡
+==
+main'
+你撤回了条消息
+你撤回了一条消息
+删除
+你撤回了条消息
+清屏
+魏树鸿的程序提示：有可能提问
+←
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern!=0:
+sendqqmasg(wern)
+ret Loop(wern)
+times 1000
+num =0
+==main 'while 1 if np.mean(gray-gray2)>2>if wern!=0
+if np.mean(gray-gr
+cv2.imwrite('
+pic_path =r"
+pic_path=r'
+wern scrope
+那下午不困嘛
+print(wern)
+if wern!=0:
+sendggmaso
+ret loop
+times
+10
+num 0
+你的黑眼圈
+=='main'〉
+while
+快赶上
+大熊猫了
+G班治白T四阳
+if np.mean(gray-gr
+cv2.imwrite('
+pic_path =r"
+那下午不困嘛
+pic_path=r'
+wern scrope
+print(wern)
+if wern!=0:
+sendggmaso
+ret loop
+你的黑眼圈
+times
+10
+num 0
+快赶上
+=='main'〉
+while
+大熊猫了
+G治言T四口
+小N干个四M
+if np.mean(gray-gr
+cv2.imwrite('
+pic_path =r"
+pic_path=r'
+wern scrope
+print(wern)
+你的黑眼圈
+if wern!=0:
+sendggmaso
+ret loop
+快赶上
+times
+10
+num 0
+大熊猫了
+=='main'〉
+while
+G6白T四汩
+if np.mean(gray-gr
+cv2.imwrite('
+pic_path =r"
+pic_path=r'
+你的黑眼圈
+wern scrope
+print(wern)
+快赶上
+if wern!=0:
+sendggmaso
+ret loop
+大熊猫了
+times
+10
+num =0
+=='main'〉
+while
+G6白T四汩
+if wern!=0:
+sendqqmasg (wern)
+ret Loop(wern)
+times 1000
+num =0
+else:
+times 2
+num num +1
+==main while 1 if np.mean(gray-gray2)>2 else
+if wern!=0:
+sendqqmasg(wern)
+ret Loop(wern)
+times 1000
+num =0
+else:
+times 2
+num num +1
+==main while 1 if np.mean(gray-gray2)>2 if wern!=0
+gI ayz-cvZ.cv col(cvz.eau
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern0:
+sendqqmasg(wern)
+ret Loop(wern)
+times -1000
+main 'while 1 >i
+if np.mean(gray-gray2)>2>if wern!=0
+Data\Local\Programs\Python\Python38\python.exe""C:\Users\WEI SHU HONG\PycharmPr
+孟令政（孟令政）
+令政
+04-25
+田恬老师老师发走
+部
+04-15
+钱俊升（钱俊升）
+俊升
+只学过串行口通信
+04-11
+钱俊升（钱俊升）
+俊升
+51的
+04-04
+04-01
+NEW
+凸
+@
+04-01
+gI ayz-cvZ.cv col(cvz.eau
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+wern scrope(pic_path)
+print(wern)
+if wern0:
+sendqqmasg(wern)
+ret Loop(wern)
+times -1000
+main 'while 1 >i
+if np.mean(gray-gray2)>2>if wern!=0
+Data\Local\Programs\Python\Python38\python.exe""C:\Users\WEI SHU HONG\PycharmPr
+孟令政（孟令政）
+令政
+04-25
+田恬老师老师发走
+部
+04-15
+钱俊升（钱俊升）
+俊升
+只学过串行口通信
+04-11
+钱俊升（钱俊升）
+俊升
+51的
+04-04
+04-01
+NEW
+凸
+@
+04-01
+1白色yμ1白
+课程签到提醒
+我发起了课程签到，请及时处理
+04-25
+签到结束时间：14：00
+已签到
+部
+04-15
+王新珂（王新珂）
+新珂
+04-11
+1
+田恬老师老师发走
+04-04
+俞雪锋（俞雪锋）
+雪锋
+1
+04-01
+NEW
+凸ǒ@
+04-01
+X●
+烟李姐（李姐）
+玉王倩（王
+吴静雯（吴静雯）
+韩怡豪（韩怡豪）
+潘世龙（潘世龙）
+m范丙强（范丙强）
+。李增浩（李增浩）
+“赵志永（赵志永）
+04-25
+없孟令政（孟令）x12
+张鹤（张鹤
+部
+04-15
+田恬老师（田恬）
+2022元气满满
+课程签到提醒
+04-11
+我发起了课程签到，请及时处理
+签到结束时间：14：00
+04-04
+已签到
+04-01
+W
+凸@
+尚
+04-01
+13
+推荐
+强烈推荐
+14
+pe0ple=*米*#
+好友全称
+15
+message='*'#发送的消息
+16
+17
+Q0 dir=r'E:\Tencent\QQ\Bin\QQ.exe'#QQ路径
+18
+A和cuDNN
+19
+#判断0Q是否登录
+结业报告
+20
+def proc exist(process name):
+21
+pl psutil.pids()
+22
+for pid in pl:#通过办ID判断
+23
+if psutil.Process(pid).name()
+=process name:
+年8篇
+24
+return isinstance(pid,int)
+25
+26
+发送消息
+27
+def send msg(people,msg):
+28
+if proc exist('Q0.exe'):
+29
+#打开0Q主界面
+30
+gui.moveTo(1580,1080,duration=0.2)
+31
+gui.moveTo(1580,1050,duration=0.2)
+32
+gui.click()
+孟令政（孟令政）
+令政
+04-25
+田恬老师老师发走
+部
+04-15
+钱俊升（钱俊升）
+14:01
+俊升
+只学过串行口通信
+e
+04-11
+钱俊升（钱俊升）
+俊升
+51的
+04-04
+04-01
+NEW
+©
+凸
+@
+04-01
+俊升
+51的
+04-25
+田恬老师（田恬）
+82022元气满满14：28
+【STC15】串行口1的相关寄存器解读
+部
+04-15
+perseverance52的博客-CSDN博客串行口的输
+详细个绍了STC15F2K60S2单片机的特殊功
+能寄存器，该款单片机功能强大，资源较
+原创
+04-11
+多。根据官方给出的内容，JMX何以用来.…
+https://blog.csdn.net/weixin 42880082/artic
+1e/details,/122789485
+e
+04-04
+04-01
+NEW
+凸
+@
+校
+04-01
+能寄存器，款单片机功强大，资源较
+原包
+多。根据官方给出的内容，MX可以用来.
+https://blog.csdn.net/weixin 42880082/artic
+le/details/122789485
+04-25
+部
+04-15
+04-11
+x3
+张永吉张永吉)
+赵琪（赵
+04-04
+04-01
+NEW
+b@
+自
+04-01
+https://blog.csdn.net/weixin 42880082/artic
+le/details/122789485
+04-25
+部
+04-15
+x5
+杨克宇（杨克宇）
+高逸菲
+04-11
+爆赵琪（赵琪
+钱俊升（钱俊升）
+⑦
+04-04
+04-01
+NEW
+b@
+自乃
+04-01
+04-25
+x10
+衄杨澳昀（杨澳昀）
+烟李如
+部
+04-15
+刘德宝（刘德宝）
+董烨（董烨）
+克学
+衡张永吉张永吉)
+爆赵琪（赵琪）
+04-11
+马梦苒（马梦苒
+04-04
+04-01
+NEW
+凸
+，@
+夜
+04-01
+×20
+吴静雯（吴静雯）
+烟刘庆
+04-25
+雨李元朝（李元朝）
+周汝倩（周汝倩）
+公浩然（公浩然）
+张宏国张宏国)
+部
+04-15
+烟李姐（李姐）
+赵志永（赵志永）
+克学
+杨克宇（杨克宇）高逸菲（高逸菲）
+04-11
+李芮（李芮）
+李芮
+1
++1
+04-04
+04-01
+NEW
+⑧
+凸
+@
+0自
+夜
+04-01
+×22
+王来远（王来远）
+李病
+04-25
+刘庆奥（刘庆奥）
+孙卓云（孙卓云）
+陈城宇（陈城宇）
+烟孙耀（孙耀）
+部
+04-15
+4马梦苒（马梦苒）
+蛀杨澳昀（杨澳昀）
+刘德宝（刘德宝）
+董烨（董烨）
+克学
+04-11
+胡昊宇（胡昊宇）
+昊宇
+1
+04-04
+04-01
+NEW
+⑧
+凸
+@
+0自
+夜
+04-01
+×23
+瞬胡昊宇（胡昊宇）
+王来
+04-25
+吴静雯（吴静雯）
+期刘庆奥（刘庆奥）
+。周汝倩（周汝倩青
+解陈城宇（陈城宇）
+部
+04-15
+张宏国张宏国)
+马梦苒（马梦苒）
+“赵志永（赵志永）
+醒刘德宝（刘德宝
+04-11
+巩如哲（巩如哲）
+1
++1
+04-04
+04-01
+NEW
+凸
+@
+0自
+夜
+04-01
+x24
+シ巩哲（哲）
+胡景
+04-25
+锅李芮（李芮）
+吴静雯（吴静雯）
+雨李元朝（李元朝）
+周汝倩（周汝倩）
+部
+04-15
+燃公浩然（公浩然）「
+张宏国（张宏国）
+烟李姐（李姐）
+赵志永（赵志永）
+04-11
+张佳伟（张佳伟）
+佳伟
+1
+04-04
+04-01
+NEW
+⑧
+凸
+@
+0自
+夜
+04-01
+×25
+张佳伟张佳伟)
+y巩
+04-25
+王来远（王来远）
+锅李芮（李芮）
+际孙卓云（孙卓云）
+雨李元朝（李元朝）
+部
+04-15
+孙耀（孙耀）
+燃公浩然（公浩然）
+姓杨澳昀（杨澳昀）
+烟李妲（李妲）
+04-11
+李玉洁（李玉洁）
+1
++1
+04-04
+04-01
+NEW
+凸
+@
+夜
+04-01
+x26
+Q李玉洁李玉洁)
+张值
+04-25
+牌胡昊宇（胡昊宇）
+烟王来远（王来远）
+刘庆奥（刘庆奥）
+孙卓云（孙卓云）
+部
+04-15
+等陈城宇（陈城宇）
+。孙耀（孙耀）
+4马梦苒（马梦苒）蛀杨澳昀（杨澳昀）
+04-11
+赵晴晴（赵晴晴
+04-04
+04-01
+NEW
+⑧
+凸
+，@
+0自
+夜
+04-01
+×28
+路时正（路时正）
+赵
+04-25
+张佳伟（张佳伟）
+y巩如哲（巩如哲）
+锅李芮（李芮）
+吴静雯（吴静雯）
+部
+04-15
+雨李元朝（李元朝
+做周汝倩（周汝倩）
+公浩然（公浩然）张宏国张宏国)
+04-11
+李宣辰（李宣辰）
+宣辰
+1
+04-04
+04-01
+NEW
+凸
+，@
+夜
+04-01
+×29
+最李宣辰（李宣辰）
+金路
+04-25
+Q李玉洁（李玉洁）
+张佳伟（张佳伟）
+烟王来远（王来远）
+锅李芮（李芮）
+部
+04-15
+孙卓云孙卓云)
+雨李元朝（李元朝）
+。孙耀（孙耀）
+公浩然（公浩然）
+04-11
+许允龙（许允龙）
+1
++1
+04-04
+04-01
+NEW
+凸
+，@
+0自
+夜
+04-01
+×32
+韩怡豪（韩怡豪）
+张海
+04-25
+最李宣辰（李宣辰）
+路时正（路时正）
+#张佳伟（张佳伟）
+y巩如哲（巩如哲）
+部
+04-15
+锅李芮（李芮）
+吴静零（吴静雯）
+雨李元朝（李元朝）
+周汝倩（周汝倩）
+04-11
+张鹤（张鹤）
+张鹤
+1
++1
+04-04
+04-01
+NEW
+⑧
+凸
+@
+0自
+夜
+04-01
+x33
+张鹤张鹤)
+韩怡豪(
+04-25
+许允龙（许允龙）
+银李宣辰（李宣辰）
+0李玉洁（李玉洁）
+张佳伟（张佳伟）
+部
+04-15
+烟王来远（王来远）
+锅李芮（李芮）
+孙卓云孙卓云)
+雨李元朝（李元朝）
+04-11
+王一澎王一澎)
+澎
+1
++1
+04-04
+04-01
+NEW
+⑧
+凸
+@
+0自
+夜
+04-01
+x34
+王一澎（王一澎）
+张
+04-25
+张海鹏（张海鹏）
+许允龙（许允龙）
+赵晴晴（赵晴晴）
+食李玉洁（李玉洁）
+部
+04-15
+瞬胡昊宇（胡昊宇）
+烟王来远（王来远）
+刘庆奥（刘庆奥）
+程孙卓云（孙卓云）
+04-11
+周广朝（周广朝
+乌拉
+1
+04-04
+04-01
+NEW
+⑧
+凸
+@
+0自
+夜
+04-01
+x35
+®，周广朝（周广朝「
+8王
+04-25
+韩怡豪（韩怡豪）
+张海鹏（张海鹏）
+路时正（路时正）
+。赵晴晴（赵晴晴）
+部
+04-15
+y巩如哲（巩如哲）
+瞬胡昊宇（胡昊宇）
+吴静雯（吴静雯）
+刘庆奥（刘庆奥）
+04-11
+王晨光（王晨光）
+晨光
+1
++1
+04-04
+04-01
+NEW
+©
+@
+0自
+夜
+04-01
+x36
+王晨光（任晨光）
+@周
+04-25
+张鹤（张鹤）
+韩怡豪（韩怡豪）
+银李宣辰（李宣辰）
+路时正（路时正）
+部
+04-15
+张佳伟（张佳伟）
+y巩如哲（巩如哲）
+锅李芮（李芮）
+吴静雯（吴静雯）
+04-11
+刘新宇文刘新宇)
+の请假中
+宁：续说
+1
+04-04
+04-01
+NEW
+凸
+@
+夜
+04-01
+x37
+遵刘新宇（刘新宇）
+光
+王局
+04-25
+王一澎（王一勤
+张鹤（张鹤）
+许允龙（许允龙）
+银李宣辰（李宣辰）
+部
+04-15
+Q李玉洁（李玉洁）
+张佳伟（张佳伟）
+王来远（王来远）
+锅李芮（李芮）
+04-11
+刘鑫磊（文刘鑫磊）
++1
+04-04
+04-01
+NEW
+©
+凸
+，@
+夜
+04-01
+04-25
+x38
+幻刘鑫磊（刘鑫磊
+善刘房
+部
+04-15
+®，周广朝（周广朝
+王一澎（王一澎）
+张海鹏张海鹏)
+感许允龙（许允龙）
+04-11
+赵晴晴（赵晴晴）
+Q李玉洁（李玉洁）
+导胡昊宇（胡昊宇）
+王来远（王来远）
+04-04
+田恬的直播：无线通讯技术一一R
+回放”
+04-01
+NEW
+⑧
+b@
+0自
+04-01
+直播已结束
+主播：田恬
+04-25
+无线通讯技术—RFID
+部
+04-15
+观看时长统计规呗则
+01:08:47
+01:0
+04-11
+直播时长
+观看引
+0
+72
+04-04
+点赞数
+已观看学生
+04-01
+©
+凸
+@
+04-01
+直播已结束
+主播：田恬
+04-25
+无线通讯技术—RFID
+田恬老师（田恬）
+g2022元
+部
+04-15
+观看时长统计规呗则
+下课了
+01:08:47
+01:0
+04-11
+直播时长
+观看引
+田恬老师（田恬
+g20227
+0
+72
+04-04
+下课了铜须门
+点赞数
+已观看学生
+04-01
+⑧
+凸
+@
+04-01
+直播已结束
+田恬老师（田恬）
+2022
+主播：田恬
+04-25
+下课了
+无线通讯技术—RFID
+部
+04-15
+观看时长统计规呗则
+田恬老师（田恬）
+32022
+01:08:47
+01:0
+04-11
+下课了铜须门
+直播时长
+观看引
+田恬老师（田恬
+g2022元
+0
+72
+04-04
+同学们
+点赞数
+二观看学牛
+04-01
+⑧
+凸
+品
+@
+04-01
+今
+田恬老师（田恬）
+32022元气满满
+04-25
+下课了
+部
+04-15
+田恬老师（田恬）
+32022元气满满
+04-11
+下课了铜须门
+田恬老师（田恬
+32022元气满满
+04-04
+同学们
+04-01
+NEW
+凸
+@
+04-01
+w一
+if wern=1 and src[key]['words']in["签到结束"。"已签到"."田恬老师老师发起的课程签到：
+wern 0
+if src[key]['words']in["在""在的"]：
+wern =2
+else:
+#
+for x in src[key]['words']:
+#
+if x in"签到结束时间"：
+#
+nn nn +1
+#
+if nn>6:
+#
+wern =2
+dicfile.write(src[key]['words']
+dicfile writer\n)
+for key in range(len(src))if wern =1 and src[key]['word..
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+用！(3449)
+兵灵足则：
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+妞
+见频，都不
+方便(2)
+今晚来我房间
+日动加圣诞
+)(2)
+r一一我的P
+用！(3449)
+高质量跳
+邵喜欢(5)
+妞
+四】pych
+快捷键(4)
+今晚来我房间
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+用！(3449)
+妞
+今晚来我房间
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+3
+r一一我的P
+用！(3449)
+妞
+今晚来我房间
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+我的P
+GIF
+治言T四知
+用！(3449)
+今晚来我房引间
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+..e
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+3
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+G丽说=T四
+风川木元仕h=h,1
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+钢管舞
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+我的P
+G丽说=T四
+乙奥Dk幻f。
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+G治广T四p
+扬澳的非但过立翠代n,
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+GIF
+说声T四阳
+用！(3449)
+3
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+然后嘞
+r一一我的P
+G丽T四
+吉尖工
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+然后嘞
+r一一我的P
+G丽T四
+吉盐左h,购收的
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+然后嘞
+)(2)
+r一一我的P
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+然后嘞
+方便(2)
+日动加圣诞
+)(2)
+摔了？
+rー一我的P
+用！(3449)
+高质量跳
+邵喜欢(5)
+四】pych
+然后嘞
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+摔了？
+方便(2)
+日动加圣诞
+)(2)
+rー一我的P
+用！(3449)
+然后嘞
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+摔了？
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+r一一我的P
+用！(3449)
+个回韌
+高质量跳
+邵喜欢(5)
+摔了？
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+)(2)
+哈哈哈哈哈哈哈
+r一一我的P
+GIF
+治言T四沿
+用！(3449)
+摔了？
+高质量跳
+邵喜欢(5)
+四】pych
+快捷键(4)
+IP音乐，
+的(4)
+见频，都不
+方便(2)
+日动加圣诞
+哈哈哈哈哈哈哈
+)(2)
+撞门上了？？
+r一一我的P
+GIF
+治言T四沿
+04-01
+04-01
+Localized
+04-01
+立即签到
+更多
+下课了
+立即签到
+提交截止时间：2022-05-0700：00
+32022元气满满
+32022元气满满
+正在识别图片信息.····…
+Localize
+放”中，查看详情
+Localize
