@@ -17606,20 +17606,3569 @@ x50￥
 杨克宇（杨克宇）。周广朝
 高逸菲（高逸菲
 在
-key in range(len(src)):
-if src[key]['words']in["我发起了课程签到，请及时处理"，"课程签到提醒""在""在的"]：
-wern 1
+件名，个指足了计始实议应直的钉号（「0W)列号(C0)。
+0开始计数。*也就是说.r0w=0,C0=0表示从文件中第一个数开始读。
+e限定了读取的范围。range=[R1C1R2C2],这里(R1,C1)是读取区域的左上角，(R2,C2)
+方法时，要求row,col等于range中的前两项。
+项，读到矩阵中时，会初始化为0
+数
+居格式
+居格式
+工作区
+数据的话，可以直接将数据拖动到Matlab的工作区内。
+A
+钱俊升（钱俊升）
+俊升
+钱俊升钱俊升)
+俊升
+不知道用哪个
+应该只是封装的不同
+脚相同就可以
+钱俊升（钱俊升）
+俊升
+AMPIRE128X64
+DS风AW
+128064 Graphical LCD with KS0108 controllers
+]HDG12864F.1
+DS风AW
+128064 Graphical LCD with SED1565 controllet Serial data input
+HDG12864F-3
+DS风AW
+128064 Graphical LCD with SED1565 controllec Parallel data input
+HDG12864L4
+DS风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input,LED Backdight
+HDG12864L6
+DS风AY
+128064 Graphical LCD with SED1565 controllet Selectable Interface,LED Eacidight
+PG12854F
+DE乳LAW
+128064 Graphical LCD Display
+钱俊升（钱俊升）
+俊升
+不知道用哪个
+田恬老师（田恬）
+2022元气满满
+应该只是封装的不同
+田恬老师（田恬）
+32022元气满满14：29
+引脚相同就可以
+钱俊升（钱俊升）
+俊升
+AMPIRE128X64
+DS风AW
+128064 Graphical LCD with KS0108 controllers
+HDG12864F,1
+DS风AW
+128064 Graphical LCD with SED1565 controllet Serial data input
+HDG12864F-3
+DS风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input
+HDG12864L4
+DE风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input,LED Bacldight
+HDG12864L:6D5风AW
+128064 Graphical LCD with SED1565 controllet Selectable Interface,LED Eacdight
+PG12854F
+DE风W
+128064 Graphical LCD Display
+钱俊升（钱俊升）
+俊升
+不知道用哪个
+田恬老师（田恬）
+唱2022元气满满
+应该只是封装的不同
+田恬老师（田恬）
+32022元气满满
+引脚相同就可以
+钱俊升（钱俊升）
+14:29
+俊升
+好的
+田恬
+观看：72人
+通讯技术0428下
+视频加载异常，请稍后重试
+田恬
+观看：72人
+通讯技术0428下
+田恬
+观看：72人
+通讯技术0428下
+钱俊升（钱俊升）
+俊升
+AMPIRE128X64
+DS风AW
+128064 Graphical LCD with KS0108 controllers
+HDG12864F,1
+DS风AW
+128064 Graphical LCD with SED1565 controllet Serial data input
+HDG12864F-3
+DS风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input
+HDG12864L4
+DE风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input,LED Bacldight
+HDG12864L:6D5风AW
+128064 Graphical LCD with SED1565 controllet Selectable Interface,LED Eacdight
+PG12854F
+DE风W
+128064 Graphical LCD Display
+钱俊升（钱俊升）
+俊升
+不知道用哪个
+田恬老师（田恬）
+唱2022元气满满
+应该只是封装的不同
+田恬老师（田恬）
+32022元气满满
+引脚相同就可以
+钱俊升（钱俊升）
+俊升
+好的
+钱俊升（钱俊升）
+俊升
+AMPIRE128X64
+DS风AW
+128064 Graphical LCD with KS0108 controllers
+HDG12864F,1
+DS风AW
+128064 Graphical LCD with SED1565 controllet Serial data input
+HDG12864F-3
+DS风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input
+HDG12864L4
+DE风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input,LED Bacldight
+HDG12864L:6D5风AW
+128064 Graphical LCD with SED1565 controllet Selectable Interface,LED Eacdight
+PG12854F
+DE风W
+128064 Graphical LCD Display
+钱俊升（钱俊升）
+俊升
+不知道用哪个
+田恬老师（田恬）
+唱2022元气满满
+应该只是封装的不同
+田恬老师（田恬）
+32022元气满满
+引脚相同就可以
+钱俊升（钱俊升）
+俊升
+好的
+小åコ
+钱俊升（钱俊升）
+俊升
+JAMPIRE128X64
+DS乳AW
+12法
+HDG12864F,1
+D区风AW
+12话
+14:26:19
+HDG12864F-3
+DS风AW
+HDG12864L4
+DE风AW
+12法
+HDG12864L:6D5风AW
+12法
+PG12854F
+DEP风W
+12
+怎么样
+钱俊升（钱俊升）
+俊升
+解决了正在写报告
+不知道用哪个
+田恬老师（田恬）
+应该只是封装
+那我去北
+田恬老师（田恬）
+引脚相同就可
+钱俊升（钱俊升）
+俊升
+好嘞
+好的
+GIF
+治言T四沿
+钱俊升（钱俊升）
+俊升
+AMPIRE128X64
+DS风AW
+128064 Graphical LCD with KS0108 controllers
+HDG12864F,1
+DS风AW
+128064 Graphical LCD with SED1565 controllet Serial data input
+HDG12864F-3
+DS风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input
+HDG12864L4
+DE风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input,LED Bacldight
+HDG12864L:6D5风AW
+128064 Graphical LCD with SED1565 controllet Selectable Interface,LED Eacdight
+PG12854F
+DE风W
+128064 Graphical LCD Display
+钱俊升（钱俊升）
+俊升
+不知道用哪个
+田恬老师（田恬）
+唱2022元气满满
+应该只是封装的不同
+田恬老师（田恬）
+32022元气满满
+引脚相同就可以
+钱俊升（钱俊升）
+俊升
+好的
+#对获取的图片转换成二维矩阵形式，后再将RGB转成BGR
+#因为imshow,默认通道顺序是BGR,而oyautoqui默认是RGB所以要转换一下，不然会有点问题
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+#cy2.imshow("截屏"qnaY)
+if num =1:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+gray2 cv2.cvtColor(cv2.imread('dashen_compressed.png'),cv2.COLOR_BGR2GRAY)
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+==main 'while 1>if np.mean(gray-gray2)>2 if wern!=0
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+共cv2.imshow("截屏"qraY
+if num =1:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+gray2 cv2.cvtColor(cv2.imread('dashen_compressed.png'),cv2.COLOR_BGR2GRAY)
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png'
+==main 'while 1
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png
+wern scrope(pic_path)
+print(wern)
+if wern0:
+ret loop(wern)
+if ret:
+print("邮件发送成功")
 else:
-#
-for x in src[key]['words']:
-#
-if x in"签到结束时间"：
-#
-nnnn +1
-#
-if nn>6:
-#
-wern =2
-dicfile.write(src[key]['words']
-dicfile.write('\n')
-for key in range(len(src))
+print("邮件发送失败")
+times 1000
+num 0
+main
+_while 1
+cv2.1mwrite('dashen_compressed.png,gray,[Cv2.IMWRIIE_PNG_CUMPRESSIUN,
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png
+wern scrope(pic_path)
+print(wern)
+if wern!=0:
+ret loop(wern)
+if ret:
+print("邮件发送成功")
+else:
+print("邮件发送失败")
+times
+1000
+num =0
+main
+〉
+while 1
+else:
+print("邮件发送失败")
+times 1000
+num =0
+else:
+times 1
+numnum +1
+==main 'while 1
+钱俊升（钱俊升）
+俊升
+AMPIRE128X64
+DS风AW
+128064 Graphical LCD with KS0108 controllers
+HDG12864F,1
+DS风AW
+128064 Graphical LCD with SED1565 controllet Serial data input
+HDG12864F-3
+DS风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input
+HDG12864L4
+DE风AW
+128064 Graphical LCD with SED1565 controllet Parallel data input,LED Bacldight
+HDG12864L:6D5风AW
+128064 Graphical LCD with SED1565 controllet Selectable Interface,LED Eacdight
+PG12854F
+DE风W
+128064 Graphical LCD Display
+钱俊升（钱俊升）
+俊升
+不知道用哪个
+田恬老师（田恬）
+唱2022元气满满
+应该只是封装的不同
+田恬老师（田恬）
+32022元气满满
+引脚相同就可以
+钱俊升（钱俊升）
+俊升
+好的
+不知道用哪个
+田恬老师（田恬）
+32022元气满满
+应该只是封装的不同
+田恬老师（田恬）
+82022元气满满
+引脚相同就可以
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+杨克宇（杨克宇）
+克宇
+1
+业久只是蓟装的小可
+田恬老师（田恬）
+32022元气满满
+引脚相同就可以
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+1
+×3
+王来远（任来远）马梦苒（马梦苒）
+加
+脚相同就可以
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+1
+x8
+吴静雯（吴静雯）
+崔盛海（崔盛海
+国王一澎（任一澎「
+烟王来远（王来远）马
+烟李姐（李妲）
+加
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+x15
+最李宣辰（李宣辰）
+陈城宇（陈
+衡张永吉张永吉)
+瞬胡昊宇（胡昊宇）
+王物
+王
+崔盛海（崔盛海）
+丝杨澳昀（杨澳昀）
+马梦苒（马梦苒）
+杨克宇（杨克宇）
+李
+@加
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+x18
+网范丙强（范丙强）
+李增浩（李士
+李宣辰（李宣辰）
+陈城宇（陈城宇）
+刘
+导胡昊宇（胡昊宇）
+玉王倩（王倩）
+吴静雯
+战杨澳昀（杨澳昀）
+王一澎（王一澎
+米石
+学杨克宇（杨克宇）
+烟李姐（李姐）
+。赵晴晴
+加
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+×20
+雨李元朝（李元朝
+游烟孙耀（孙耀）
+李增浩（李增浩）
+瞬钱俊升（钱俊升）
+李
+刘庆奥（刘庆奥）
+衡张永吉（张永吉）
+胡
+吴静雯（吴静雯）
+崔盛海（崔盛海）
+丝杨
+王来远（王来远）
+4马梦苒（马梦再）
+杨
+加
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+×27
+李玉洁（李玉洁）
+雨李元朝（李）
+范丙强（范丙强）
+李增浩（李增浩）
+钱
+陈城宇（陈城宇）
+刘庆奥（刘庆奥）
+衡张
+王倩（任倩）
+吴静雯（吴静雯）
+崔盛海
+王一澎（任一澎
+王来远（王来远）
+马
+加
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+×23
+张佳伟张佳伟)
+赵琪（赵琪）
+雨李元朝（李元朝）
+孙耀（孙耀）
+题范丙强
+瞬钱俊升（钱俊升）
+银
+李宣辰（李宣辰）
+城学
+陈
+衡张永吉张永吉)
+胡昊宇（胡昊宇）
+崔盛海（崔盛海）
+蛀杨澳昀（杨澳昀）
+加
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+x24
+微。周汝倩周汝倩)
+张佳伟（张
+@李玉洁（李玉洁）
+李元朝（李元朝）
+孙
+李增浩（李增浩）
+瞬钱俊升（钱俊升）
+李
+刘庆奥（刘庆奥）
+衡张永吉张永吉)
+学
+胡
+吴静雯（吴静雯）
+端崔盛海（崔盛海）
+蛀杨
+加
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+×26
+翻刘德宝（刘德宝）
+李博（李博）
+佛张佳伟（张佳伟）
+赵琪（赵琪）
+李玉洁
+孙网孙耀（孙耀）
+范丙强（范丙强）
+增
+李增浩
+李宣辰（李宣辰）
+陈城宇（陈城宇）
+烟刘
+学胡昊宇（胡昊宇）
+玉王倩（王倩
+吴静雯
+①加
+钱俊升（钱俊升）
+俊升
+好的
+刚刚
+×28
+魏树鸿魏树鸿)
+程祥（程祥）
+周汝倩（周汝倩）
+世#张佳伟（张佳伟）
+雨李元朝（李元朝）
+孙耀（孙耀）
+强
+范丙强
+瞬钱俊升（钱俊升）
+李宣辰（李宣辰）
+衡张永吉张永吉)
+学胡昊宇（胡昊宇）
+0加
+6分钟前
+×28
+魏树鸿（魏树鸿吲
+程祥（程祥
+做周汝倩（周汝倩）
+#张佳伟（张佳伟）
+雨李元朝（李元朝）
+孙耀（孙耀）
+范丙强
+瞬钱俊升（钱俊升）
+银李宣辰（李宣辰）
+张永吉张永吉)
+学胡昊宇（胡昊宇）
+王
+田恬老师（田恬）
+2022元气满满
+@所有学生实验一给那么长时间就这个质量？？全都重交，再交上来这个样子，实验一成
+了
+×28
+魏树鸿（魏树鸿）
+程祥（程祥）
+做周汝倩（周汝倩）
+张佳伟张佳伟)
+雨李元朝（李元朝）
+孙
+孙耀孙耀)
+范丙强
+瞬钱俊升（钱俊升）
+银李宣辰（李宣辰）
+衡张永吉张永吉)
+学胡昊宇（胡昊宇）
+王
+田恬老师（田恬）
+82022元气满满
+@所有学生实验一给那么长时间就这个质量？？全都重交，再交上来这个样子，实验一成
+了
+俞雪锋（俞雪锋）
+6分钟前
+×28
+魏树鸿（魏树鸿吲
+程祥（程祥
+做周汝倩（周汝倩）
+#张佳伟（张佳伟）
+雨李元朝（李元朝）
+孙耀（孙耀）
+范丙强
+瞬钱俊升（钱俊升）
+银李宣辰（李宣辰）
+张永吉张永吉)
+学胡昊宇（胡昊宇）
+王
+田恬老师（田恬）
+2022元气满满
+@所有学生实验一给那么长时间就这个质量？？全都重交，再交上来这个样子，实验一成
+了
+14:26:19
+怎么村
+解决了正在写报告
+那我去北
+田恬老师（田恬）
+@所有学生实
+好嘞
+了
+G班治白T四沿
+15分钟育
+×28
+魏树鸿（魏树鸿吲
+程祥（程祥
+做周汝倩（周汝倩）
+#张佳伟（张佳伟）
+雨李元朝（李元朝）
+孙耀（孙耀）
+范丙强
+瞬钱俊升（钱俊升）
+银李宣辰（李宣辰）
+张永吉张永吉)
+学胡昊宇（胡昊宇）
+王
+田恬老师（田恬）
+2022元气满满
+@所有学生实验一给那么长时间就这个质量？？全都重交，再交上来这个样子，实验一成
+了
+件名，个指足了计始实议应直的钉号（「0W)列号(C0)。
+0开始计数。*也就是说.r0w=0,C0=0表示从文件中第一个数开始读。
+e限定了读取的范围。range=[R1C1R2C2],这里(R1,C1)是读取区域的左上角，(R2,C2)
+方法时，要求row,col等于range中的前两项。
+项，读到矩阵中时，会初始化为0
+数
+居格式
+居格式
+工作区
+数据的话，可以直接将数据拖动到Matlab的工作区内。
+A
+We're fetching your file...
+Please wait a moment while we retrieve your file from its home on the internet
+PowerPoint Online
+青软买
+www.itshixun.com
+第二章开发环
+提交截止时间：2021-04-1712：00
+批阅截止时间：2021-04-2300：00
+互评任务：2/2
+第08次作业-红外通信优缺点
+互评
+总分：10
+提交截止时间：2021-04-1612：00
+批阅截止时间：2021-04-2200：00
+互评任务：2/2
+第07次作业-WLAN章节总结
+总分：10
+提交截止时间：2021-04-1612：00
+第06次作业互评
+总分：100
+提交截止时间：2021-04-0212：00
+批阅截止时间：2021-04-0723：00
+互评任务：0/3
+第05次作业
+总分：100
+提交截止时间：2021-03-2723：00
+第04次作业-章节作业
+三
+总分：10
+提交截止时间：2021-03-3123：00
+暂无内容
+提交物：实验报告、成果物
+提交截止时间：2021-04-1300：00
+实验二网络建立过程
+已提交
+环境：无
+提交物：实验报告
+提交截止时间：2021-04-0700：00
+01数据帧捕获及数据分析
+已提交
+环境：无
+提交物：实验报告
+提交截止时间：2021-03-3016：46
+交
+提交物：实验报告
+提交截止时间：2021-03-3016：46
+实验提交物
+实验手册
+成果物：郭丽君一实验一数据帧的捕获和分析.docx
+下载
+必交
+实验报告：郭丽君一实验一数据帧的捕获和分析.doc以
+下载√
+提交物：实验报告、成果物
+提交截止时间：2021-04-1300：00
+实验二网络建立过程
+已提交
+环境：无
+提交物：实验报告
+提交截止时间：2021-04-0700：00
+01数据帧捕获及数据分析
+已提交
+环境：无
+提交物：实验报告
+提交截止时间：2021-03-3016：46
+交
+提交物：实验报告
+提交截止时间：2021-04-0700：00
+实验提交物
+实验手册
+成果物：郭丽君一实验二网络建立过程.d0cX下载
+必交
+实验报告：郭丽君一实验二网络建立过程.d0cX
+下载V
+提交截止时间：2021-04-1712：00
+批阅截止时间：2021-04-2300：00
+互评任务：2/2
+第08次作业-红外通信优缺点
+互评
+总分：10
+提交截止时间：2021-04-1612：00
+批阅截止时间：2021-04-2200：00
+互评任务：2/2
+第07次作业-WLAN章节总结
+总分：10
+提交截止时间：2021-04-1612：00
+第06次作业互评
+总分：100
+提交截止时间：2021-04-0212：00
+批阅截止时间：2021-04-0723：00
+互评任务：0/3
+第05次作业
+总分：100
+提交截止时间：2021-03-2723：00
+第04次作业-章节作业
+三
+总分：10
+提交截止时间：2021-03-3123：00
+第06次作业互评
+总分：100
+提交截止时间：2021-04-0212：00
+批阅截止时间：2021-04-0723：00
+互评任务：0/3
+第05次作业
+总分：100
+提交截止时间：2021-03-2723：00
+第04次作业-章节作业
+三五
+总分：10
+提交截止时间：2021-03-3123：00
+第03次作业
+总分：100
+提交截止时间：2021-03-2323：00
+第02次作业-章节作业
+总分：100
+提交截止时间：2021-03-2323：00
+第01次作业
+总分：10
+第06次作业互评
+总分：100
+提交截止时间：2021-04-0212：00
+批阅截止时间：2021-04-0723：00
+互评任务：0/3
+第05次作业
+总分：100
+提交截止时间：2021-03-2723：00
+第04次作业-章节作业
+三五
+总分：10
+提交截止时间：2021-03-3123：00
+第03次作业
+总分：100
+提交截止时间：2021-03-2323：00
+第02次作业-章节作业
+总分：100
+提交截止时间：2021-03-2323：00
+第01次作业
+总分：10
+第06次作业互评
+总分：100
+提交截止时间：2021-04-0212：00
+批阅截止时间：2021-04-0723：00
+互评任务：0/3
+第05次作业
+总分：100
+提交截止时间：2021-03-2723：00
+第04次作业-章节作业
+三五
+总分：10
+提交截止时间：2021-03-3123：00
+第03次作业
+总分：100
+提交截止时间：2021-03-2323：00
+第02次作业-章节作业
+总分：100
+提交截止时间：2021-03-2323：00
+第01次作业
+总分：10
+提交截止时间：2021-04-1712：00
+批阅截止时间：2021-04-2300：00
+互评任务：2/2
+第08次作业-红外通信优缺点
+互评
+总分：10
+提交截止时间：2021-04-1612：00
+批阅截止时间：2021-04-2200：00
+互评任务：2/2
+第07次作业-WLAN章节总结
+总分：10
+提交截止时间：2021-04-1612：00
+第06次作业互评
+总分：100
+提交截止时间：2021-04-0212：00
+批阅截止时间：2021-04-0723：00
+互评任务：0/3
+第05次作业
+总分：100
+提交截止时间：2021-03-2723：00
+第04次作业-章节作业
+三
+总分：10
+提交截止时间：2021-03-3123：00
+提交物：实验报告、成果物
+提交截止时间：2021-04-1300：00
+实验二网络建立过程
+已提交
+环境：无
+提交物：实验报告
+提交截止时间：2021-04-0700：00
+01数据帧捕获及数据分析
+已提交
+环境：无
+提交物：实验报告
+提交截止时间：2021-03-3016：46
+提交物：实验报告、成果物
+提交截止时间：2021-04-1300：00
+实验二网络建立过程
+已提交
+环境：无
+提交物：实验报告
+提交截止时间：2021-04-0700：00
+01数据桢捕获及数据分折
+已提交
+01数据帧捕获及数据分析
+征又物：头应叹百
+提交截止时间：2021-03-3016：46
+交
+提交物：实验报告
+提交截止时间：2021-03-3016：46
+实验提交物
+实验手册
+成果物：郭丽君一实验一数据帧的捕获和分析.docx
+下载
+必交
+实验报告：郭丽君一实验一数据帧的捕获和分析.doc以
+下载√
+交
+提交物：实验报告
+提交截止时间：2021-03-3016：46
+实验提交物
+实验手册
+成果物：郭丽君一实验一数据帧的捕获和分析.docx
+下载
+必交
+实验报告：郭丽君一实验一数据帧的捕获和分析.doc以
+下载√
+下载已批阅报告
+下裁原报告
+下争做堪
+种方法1使用csvread函数csvread(O函数有三种使用方法：M=csvread('f
+ename',row,col)M csvread('filename',row,c...
+1谷爱凌
+2
+男子与
+值
+matlab处理csv数据
+matlab读取csv文件某一列
+3李大钊
+atlab
+MATLAB处理CSV
+matlab对csv数据求和
+4北京囤
+5
+企业Uf
+文件-常见问题-PHP中文网
+6英媒称
+2021年2月8日matlab读取csv文件的方法：首先打开电脑上的“matlab"软
+牛，并找到电脑上的cSv文件：然后箭头处命令行窗口输入代码，命令为【cSv
+7上海交
+ead0】:最后括号里为【csv文件的目录+文件名称】。本.
+8“刘畊疠
+PHP中文网。百度快照
+9
+全国10
+文件-百度经验
+10女高材
+2019年5月1日matlab怎么读取csv文件简介有时候我们在使用matlab:进
+行编程的时候，想读取cSV文件，怎么读取呢，下面来分享一下方法工
+11蓝翔校
+具/原料matlab读取csv文件方法方法/步骤1第一步我们首..
+12要买下
+百度经验。百度快照
+13印度垃
+名动方土立丽川ST在士生。甫友月
+下争做堪
+1谷爱凌
+2
+男子与
+反馈
+3李大钊
+atlab
+MATLAB处理cSV
+matlab对csv数据求和
+4北京囤
+5
+企业Uf
+文件-常见问题-PHP中文网
+6英媒称
+2021年2月8日matlab读取csv文件的方法：首先打开电脑上的“matlab"软
+牛，并找到电脑上的csv文件：然后箭头处命令行窗口输入代码，命令为【cSV
+7上海交
+ead(0】:最后括号里为【csv文件的目录+文件名称】。本.
+8“刘畊宏
+PHP中文网。百度快照
+9
+全国10
+文件-百度经验
+10女高材
+2019年5月1日matlab怎么读取csv文件简介有时候我们在使用matlab:进
+行编程的时候，想读取cSV文件，怎么读取呢，下面来分享一下方法工
+11蓝翔校
+具/原料matlab读取csv文件方法方法/步骤1第一步我们首..
+12
+要买下
+百度经验。百度快照
+13印度垃
+多动方土立丽川QT在士佳甫友月
+下争做堪
+1谷爱凌
+2
+男子与
+3李大钊
+4北京囤
+企业Uf
+5
+反馈
+6英媒称
+2021年2月8日matlab读取csv文件的方法：首先打开电脑上的matlab"软
+牛，并找到电脑上的csv文件：然后箭头处命令行窗口输入代码，命令为【cSV
+7上海交
+ead0】:最后括号里为【csv文件的目录+文件名称】。本.
+8“刘畊宏
+PHP中文网。百度快照
+9
+全国10
+文件-百度经验
+10女高材
+2019年5月1日matlab怎么读取csv文件简介有时候我们在使用matlab:进
+行编程的时候，想读取cSV文件，怎么读取呢，下面来分享一下方法工
+11蓝翔校
+具/原料matlab读取csv文件方法方法/步骤1第一步我们首..
+12要买下
+百度经验。百度快照
+13印度垃
+多动方土立丽川QT在士佳甫友月
+下争做堪
+1谷爱凌
+2
+男子与
+分红2.6亿
+3李大钊
+女数据
+4北京囤
+关闭历史
+5
+企业U
+又件-昂回题-PHP中又网
+6英媒称
+2021年2月8日matlabi读取csv文件的方法：首先打开电脑上的“matlab"软
+牛，并找到电脑上的csv文件：然后箭头处命令行窗口输入代码，命令为【cSV
+7上海交
+ead(0】:最后括号里为【csv文件的目录+文件名称】。本.
+8“刘畊宏
+PHP中文网。百度快照
+9
+全国10
+文件-百度经验
+10女高材
+2019年5月1日matlab怎么读取csv文件简介有时候我们在使用matlab:进
+行编程的时候，想读取cSV文件，怎么读取呢，下面来分享一下方法工
+11蓝翔校
+具/原料matlab读取csv文件方法方法/步骤1第一步我们首..
+12
+要买下
+百度经验。百度快照
+13印度垃
+多动方土立丽川QT在士佳甫友月
+下争做堪
+1谷爱凌
+2
+男子与
+3李大钊
+4北京囤
+企业Uf
+5
+反馈
+6英媒称
+2021年2月8日matlab读取csv文件的方法：首先打开电脑上的matlab"软
+牛，并找到电脑上的csv文件：然后箭头处命令行窗口输入代码，命令为【cSV
+7上海交
+ead0】:最后括号里为【csv文件的目录+文件名称】。本.
+8“刘畊宏
+PHP中文网。百度快照
+9
+全国10
+文件-百度经验
+10女高材
+2019年5月1日matlab怎么读取csv文件简介有时候我们在使用matlab:进
+行编程的时候，想读取cSV文件，怎么读取呢，下面来分享一下方法工
+11蓝翔校
+具/原料matlab读取csv文件方法方法/步骤1第一步我们首..
+12要买下
+百度经验。百度快照
+13印度垃
+名动方土立丽川ST在士生。甫友月
+不争做堪
+种方法1使用csvread函数csvread(O函数有三种使用方法：M=csvread('f
+ename',row,col)M csvread('filename',row,c...
+1谷爱凌
+2
+男子与
+值
+matlab处理csv数据
+matlab读取csv文件某一列
+3
+李大钊
+atlab
+MATLAB处理CSV
+matlab对csv数据求和
+4北京囤
+5
+企业U
+文件-常见问题-PHP中文网
+6英媒称
+2021年2月8日matlab读取csv文件的方法：首先打开电脑上的“matlab"软
+牛，并找到电脑上的csv文件：然后箭头处命令行窗口输入代码，命令为【Csv
+上海交
+7
+ead0】:最后括号里为【csv文件的目录+文件名称】。本.
+8“刘畊宏
+PHP中文网。百度快照
+9
+全国10
+文件-百度经验
+10女高材
+2019年5月1日matlab怎么读取csv文件简介有时候我们在使用matlab:进
+行编程的时候，想读取cSV文件，怎么读取呢，下面来分享一下方法工
+11蓝翔校
+具/原料matlab读取csv文件方法方法/步骤1第一步我们首..
+12要买下
+百度经验。百度快照
+13印度垃
+名动方土视。儿IQT在士生，甫友同
+MDK,C51,DS5,keil DS等全线产品增值代理商，超过十五年的资深kei产品
+弋理商，可为客户提供专业的技术支持服务欢迎咨询！
+百度热搜
+ANSYS仿真ARM编译器AD硬件开发
+下争做堪
+深圳市亿道电子科技2022-04。广告
+√保障
+1谷爱凌
+2
+男子与
+533.EXE。
+35月这些
+4北京画
+径，点击Next。
+5
+错换人
+6湄公河
+7广州白
+8流浪汉
+百度经验
+9
+“刘畊宏
+2022年1月11日如何安装keil软件？简介下载kei软件，然后按照要求安
+10上海交
+装即可，以下为具体步骤：工具/原料kil方法/步骤1ki可以对单片机
+11蓝翔校
+程序进行编译和调试，仿真，是开发项目的利器。2下载.
+百度经验。百度快照
+12上海新
+人双
+巴
+母婴/教育〉教育〉职业教育
+★
+优质
+安装keil软件？
+览：1087更新：2022-01-1114：00
+2
+3
+4
+5
+6
+7
+分步阅读
+>
+件，然后按照要求安装即可，以下为具体步骤：
+料
+Q
+P
+E
+美食/营养
+游戏/数码
+★
+手工/爱好
+生活/家居
+优质
+安
+文章
+健康/养生
+运动/户外
+览
+职场理财
+情感/交际
+母婴/教育
+时尚美容
+2KE码
+6
+2KE利
+KEIL
+分步阅读
+>
+件，然后按照要求安装即可，以下为具体步骤：
+n
+X
+Vision V4.72.9.0
+opyright(C)2013 ARM Ltd and ARM Germany GmbH.All rights reserved.
+ject and select a valid target for toolchain version and license information.
+件，然后按照要求安装即可，以下为具体步骤：
+n
+X
+Vision V4.72.9.0
+opyright(C)2013 ARM Ltd and ARM Germany GmbH.All rights reserved.
+ject and select a valid target for toolchain version and license information.
+如何安装kei软件？
+ctis licensed to:
+protected by copyright law and intemational treates.Unauthorized
+distrbution of this procram.or amy portion of it may result in severe civil
+ct is licensed to:
+protected by copyright law and interational treates.Unauthorzed
+distrbution of this program.or amy portion of it may result in severe civil
+nalties.
+the Keil Software Logo,and uVision are registered trademarks of Keil
+H Kel Software Inc.
+Copy Info
+erces-c_3.0.dll)is licensed to you under the Apache Software License.
+UvEdit.dl)which enables editing of source code is licensed to you under the
+asion Notice and Disclaimer,an open source lcense approved by the Open
+OK
+料
+7
+07
+Ba@金验
+载keil安装包，注册工具。
+X
+山，04板本)·V0金本。建文件来
+变看0工具D精面出
+过打开
+共有，新文件卖
+后，日0
+☆京病
+名样
+修发日对
+生
+大小
+2345Dgmnond
+里c51v952
+2013/16/28星月.立为理序
+66770K途
+基下套
+巴图
+氢量近防间位置
+易家阳
+计得风
+载keil安装包，注册工具。
+w山，04本1)，0生本，文件突
+变春0工具D和出
+过打开
+共事”
+新文件炭
+名特
+作发日对
+啦
+大小
+2345Domnond
+是c51952
+013/10/28星期.立司程序
+6670编
+基下数
+■应图
+量近防间的位置
+易家红阳
+年女算月
+息m7C9
+G软件D时
+同播
+S1v952R2013/10/28-18.:2022/1/6터20-05
+Baidot
+应可程序
+大652MB
+管理品身份云行，T开安装句.然后在出现的安装果面中先择“NEXT”
+Welcome to Keil u Vision
+KEIL
+Release 6/2013
+Tools by ARM
+This SETUP program installs:
+Keil C51 Version 9.52
+This SETUP program may be used to update a previous product installation
+However,you should make a backup copy before proceeding.
+It is recommended that you exit all Windows programs before continuing with SETUP.
+Follow the instructions to complete the product installation.
+Kel uVision Setuo
+<c Back
+Nex
+现询问是否同意安装协议界面，在同意栏打钩，然后"next”。
+up Keil C51 Version 9.52
+License Agreement
+出现选择要安装的目录时，选择或者默认都可以，然后继续“ext”。
+up Keil C51 Version 9.52
+Folder Selection
+KEIL
+Select the folder where SETUP will install files.
+Tools by ARM
+SETUP will install Vision in the following folder.
+To install to this folder,press Next.To instal to a different folder,press Browse'and select another
+folder.
+Destination Folder
+C:\Kel
+Browse..
+Kel uVision Setup
+<<Back
+Nex
+Customer Information
+KEIL
+Please enter your information
+Tools by ARM
+Please enter your name.the name of the company for whom you work and your E-mail address.
+First Name:
+123
+Last Name:
+AutoBVT
+Company Name:
+Microsoft
+E-mail
+123
+3
+Kel uVision Setup
+<Back
+Nex
+Cancel
+后会出现安装界面，进度条显示安装进度，安装结束点击Finish:完成。
+up Keil C51 Version 9.52
+TM
+Setup Status
+I ools by ARM
+Vision Setup has performed all requested operations successfully.
+Show Release Notes.
+Add example projects to the recently used project list.
+Kel uVision Setup
+<c Back
+Fini
+用注册工具，进行注册。
+nse Management
+X
+inele-User License
+Floating License Floating License Adinistrator FlexLM License
+Customer Infomation
+Comouter ID
+Name:
+123 AutoBVT
+CID:
+CWF1B-AI9PS
+License Details-
+CID:
+CWF1B-AI9PS
+Target
+C51
+Prof.Developers KitRealView MDK
+21NII-TCW1P-SIP5S-LZEP0-XJRCR-7K6XY
+Generate
+Exit
+ai经验
+jingyan.baidu.com
+nse Management
+3
+inele-User License
+Floating License Flosting License Adninistrator FlexLM License
+Customer Infommation
+Computer ID
+Name:
+123 AutoBVT
+CID:
+CWF1B-AI9PS
+Company:
+Microsoft
+Get LIC via Intemet...
+Emai:
+123
+Product
+License ID Code (LIC)Product variant
+Support Period
+PK51 Prof.Developers Kt 21NII-TCWIP-SIP5S-LZEPO-XJRCR-7K6XY Expired:Sep 2050
+New License ID Code (LIC):
+21NII-TCWIP-SIP5S-LZEPO-XJRCR-7K6XY
+AddUc
+Urinstol
+LIC Added Sucessfully
+Close
+xip
+装不成功，要先关闭杀毒软件。
+内容仅供参考，如果您熏解决具体问题（尤其法律、医学等领域），建议您详细咨询相关领域专业人士。
+声明：本篇经验系本人依照真实经历原创，未经许可，谢绝转载。
+工后你什业士
+深击米尔料洁有限入司、广生
+MDK,C51,DS5,keil DS等全线产品增值代理商，超过十五年的资深kei产品
+弋理商，可为客户提供专业的技术支持服务欢迎咨询！
+百度热搜
+ANSYS仿真ARM编译器AD硬件开发
+下争做堪
+深圳市亿道电子科技2022-04。广告
+√保障
+1谷爱凌
+2
+男子与
+533.EXE。
+35月这些
+4北京画
+径，点击Next。
+5
+错换人
+6湄公河
+7广州白
+8流浪汉
+百度经验
+9
+“刘畊宏
+2022年1月11日如何安装keil软件？简介下载kei软件，然后按照要求安
+10上海交
+装即可，以下为具体步骤：工具/原料kil方法/步骤1ki可以对单片机
+11蓝翔校
+程序进行编译和调试，仿真，是开发项目的利器。2下载.
+百度经验。百度快照
+12上海新
+8流浪汉
+百度经验
+9“刘畊宏
+2022年1月11日如何安装keil软件？简介下载kil软件，然后按照要求安
+10上海交
+装即可，以下为具体步骤：工具/原料keil方法/步骤1kei可以对单片机
+11蓝翔校
+程序进行编译和调试，仿真，是开发项目的利器。2下载
+百度经验。
+百度快照
+12上海新
+安装
+kei软件介绍与优点
+单片机keil5安装步骤
+13企业Uf
+载
+kei怎么安装
+c51v960a安装教程破解版
+14上海此
+15普京：
+?件米尔科技一MDK
+(EIL MDK是ARM的全面的软件开发解决方案.keil uvision5正版软件找米
+尔科技.米尔科技MDK,凭良好的服务连续4年获ARM亚太区代理商大奖
+·想在此
+深圳市米尔科技有限公司2022-04。广告
+√保障
+咨询热线：
+e.baidu.con
+很山的博客-CSDN博客keil怎么安装
+2021年1月7日快速上手安装keil首先下载一个kei的MDK以及注册机（用
+”CSDN技术社区⑦百度快照
+il aklcn的博客-CSDN博客kei安装教程
+2021年5月21日简单高效的安装kil软件，不再让你为安装而烦恼前言放
+松一下：先普及一下此款keil功能特点1.完美支持Cortex-M、Corte-R4、
+ARM7和ARM9系列器件.2.行业领先的ARMC/C++编译工具链3.
+册CSDN技术社区。百度快照
+安装keil-哔哩哔哩
+]把要用到的压缩包移动到一个文件夹里，重命名为ki5,以便于我们以后
+是我们要用到的，首先我们先解压Keil uVision5C51。解压到..
+5安装教程华军软件园
+2020年10月29日有很多朋友表示准备入手Kil5这款软件，但是又不知道
+亥如何安装？下面笔者就为各位朋友讲解Ki5的安装教程，希望通过本篇
+教程的学习，可以帮助各位朋友顺利安装Ki5.1、首先，在华
+华军软件园。百度快照
+자ロkei56ロ keil5
+力
+寺双
+5
+2
+学习目标：
+评论
+收藏
+简单高效的安装ki软件，不再让你为安装而烦恼
+关注
+文章目录
+学习目标：
+前言
+二、安装步骤
+总结
+⊙188
+176
+前言
+109
+放松一下：先普及一下此款kei功能特点
+3.确定的Keil RTX,小封装实时操作系统（带源码Q)
+1篇
+4.μVision5IDE集成开发环境，调试器和仿真环境
+5.ULINKpro可实时分析运行中的应用程序，且能记录Cortex-M指令的每
+Client..1篇
+1篇
+术米米米米术米米米米米米米常米米术米米米米常米米米
+2
+Keil MDK-ARM获取方式
+应用
+1篇
+3
+1.官方下载：https://www.keil.com/demo/eval/arm.htm#/DoN
+4
+2.我的主页工具栏会上传（可能不是最新的，需要最新的官网下载）
+理
+1篇
+详解
+1篇
+二、安装步骤
+(1)以管理员权限运行mdk523.exe
+Keil MDK-ARM安装
+遇到好文章，
+STM32F407系统课程资料)DAY2-STM32开发环境塔建>安装软件包)keil5
+A
+名称
+修改日期
+袋型
+大小
+Keil.STM32F4xx_DFP.2.12.0.pack
+2018/3/713:31
+uVision Softwar...
+240.343KB
+目KEIL Lic(1).exe
+2015/10/3016:16
+应用程序
+18KB
+Keil MDK-ARM安装
+遇到好文章，
+STM32F407系统课程资料)DAV2-STM32开发环境塔建>安装软件包》kil5
+名称
+修改日期
+剑型
+大小
+Keil.STM32F4xx_DFP.2.12.0.pack
+2018/3/713:31
+uVision Softwar...
+240.343KB
+目kElc().exe
+2015/10/3016:16
+应用程序
+18 KB
+昭MDK-523.exe
+2017/3/418:21
+应用程序
+737.407KB
+●安装款MDK-523.eXe这keil5软件的安装包，不要有中文路径
+了
+●安装Keil.STM32F4DFP.2.12.0.pack这是STM32F4设备安装包
+●运行KEIL Lic(1).exe破解keil
+(以管理员权限运得kei1玻解dn.net/weixi
+，可以作为参
+页”吗？
+Setup MDK-ARM V5.23
+推荐
+强烈推荐
+Welcome
+Release
+This SETL
+MDK-A
+This SETL
+However,
+It is recom
+Follow the
+Keil MnK.△
+推荐
+强烈推荐
+(2)选择“同意”点击“NeXt”
+Setup MDK-ARM V5.23
+License Agreement
+Please read the following license agreement carefully
+To continue with SETUP,you must accept the terms of the Li
+agreement,click the check box below.
+END USER LICENCE AGREEMENT FOR MDK-ARM
+THIS END USER LICENCE AGREEMENT (LICEN
+BETWEEN YOU (EITHER A SINGI E INDIVIDUAL O
+THIS END USER LICENCE AGREEMENT (LICEN
+BETWEEN YOU (EITHER A SINGLE INDIVIDUAL,O
+ARM LIMITED CARM")FOR THE USE OF THE SOF
+推荐
+强烈推荐
+LICENCE.ARM IS ONLY WILLING TO LICENSE
+CONDITION THAT YOU ACCEPT ALL OF THE
+CLICKING I AGREE OR BY INSTALLING OR OT
+I agree to all the terms of the preceding License Agreeme
+Keil MDK-ARM Setup
+(3)根据自己的需要选择对应的安装路径，点击“Next”
+Setup MDK-ARM V5.23
+Please enter your name,the name of the company for whom yo
+推荐
+强烈推荐
+First Name:
+Last Name:
+Company Name:
+E-mail:
+一Keil MDK-ARM Setup
+(5)等待安装成功
+Setup MDK-ARM V5.23
+推荐
+强烈推荐
+Keil MDK-ARM Setup completed
+MDK-ARM V5.23
+MDK-ARM Core Setup has performed all requested operations suc
+Show Release Notes
+Retain current uVision configuration.
+个
+Output
+Refresh Pack descriptions
+Check for updates
+推荐
+强烈推荐
+Action (1 left Update Pack descriptions,download http://www.keil.com/pack/ARM.CMSIS-RTOS_Validation.pdsc
+(8)等待下载完成即可（网速允许可以操作该步骤，也可不操作）
+Pack Installer C:\Keil_v5MDK\ARM\PACK
+File
+Packs
+Window Help
+2
+Device:
+Devices
+Boards
+Search:
+,×
+Device
+Summary
+曰All Devices
+23 Devices
+由◆ARM
+23 Devices
+推荐
+强烈推荐
+Keil
+uVision5
+https://blog.csdn.net/weixin 44027052
+gμVision
+File
+Edit
+View
+Project Flash
+Debug
+Peripherals
+New...
+Ctrl+N
+哈
+Open
+Ctrl+0
+Close
+日
+Save
+exin44027052
+Build Output
+推荐
+强烈推荐
+nt
+EKeil Generic Keygen-EDGE
+nse Floating License Floating License Adninistrator Flexl License
+stion
+Comouter ID
+ooo Mcrosoft
+OD:
+C85/BJP4A2
+sroeoft
+Get LIC via itemet.
+ooo@qq.com
+e ID Code.Support Period
+stion Version
+1复制粘贴
+Keil Emb
+c10
+C858-P4A2
+Targe
+!
+Code (LIC)
+BUUHL-067CKV1KP83HYYL-K7DGG-X1R71
+Add LIC
+Prof.Developers Kit/Realvew MD
+BUUHL-067CK-V1KP8-3HYYL*
+Close
+a,3hl6c6 newdi反
+推荐
+强烈推荐
+aklcn
+关注
+KEIL5安装教程
+KEIL5安装教程，用于指号KEIL5安装，
+PDF文档，请勿转载！
+Keil(MDK-ARM)介绍、下载、安装与注册
+热门推荐
+推荐分享一个大神的人工智能教程。零基础！通俗易懂！风趣幽默！还带黄段子
+参与评论
+您还未登录，请先
+登录
+后发表或查看评论
+keil5安装教程zdb呀的博客keil5安装教程
+kei5安装教程共三个文件1、安装MDK524a.EXE流程安装流程如下：1、先双击
+Keil5软件安装与破解教程附资源早睡的叶子的博客-CSDN.
+Keil5(32/64)位下载地址：【百度网盘】链接：⑧nttps://pan.baidu.cem/s/1dGaGZb
+2018-04-02上传
+PDF
+857KB
+评论
+1收藏
+举报
+买1年送1年+抽豪礼
+(低至0.43/天)
+8身份认证购VIP最低淳7折>
+装，PDF文档，请勿转载！
+https://download.csdn.net/download/weixin 58058599/38572213
+细教程)
+安装说明，STM32F1和F4的芯片包，ST固件库。
+中的使用教程
+else:
+print("邮件发送失败")
+times 1000
+num =0
+else:
+times 1
+numnum +1
+==main 'while 1
+2018-04-02上传
+PDF
+857KB
+评论
+1收藏
+举报
+买1年送1年+抽豪礼
+(低至0.43/天)
+8身份认证购VIP最低淳7折>
+装，PDF文档，请勿转载！
+https://download.csdn.net/download/weixin 58058599/38572213
+细教程)
+安装说明，STM32F1和F4的芯片包，ST固件库。
+保修期剩余134天(2022-08-31)去延保⑦
+日系统内存
+29%
+>
+凸
+CPU使用率
+母
+92%
+W
+过高
+⊙3GHz
+863℃
+Xiaomi_8C6B_...
+7.3GB
+7.9GB
+已用内存
+本机内存
+键加速
+↓17KB/s
+个9KB/s
+保修期剩余134天(202
+日系统内存
+凸
+母
+94%
+94%
+过高
+9
+心
+7.4GB
+7
+已用内存
+键加道
+保修期剩余134天（20：
+名称
+日系统内存
+Windows服务主进程
+系统
+凸
+联想电脑管家
+系统
+72%
+向日葵
+较高
+dwm
+系统
+钉钉
+5.7GB
+7
+Google Chrome
+已用内存
+☑
+Microsoft Windows Search索I器
+系统
+键加道
+四
+PyCharm Community Edition
+Microsoft Edge
+系统
+保修期剩余134天(202
+名称
+日系统内存
+Windows服务主进程
+系统
+凸
+联想电脑管家
+系统
+72%
+向日葵
+较高
+dwm
+系统
+钉钉
+5.8GB
+7
+腾讯QQ
+已用内存
+☑
+Google Chrome
+键加诓
+Microsoft Windows Search索I器
+系统
+Microsoft Edge
+系统
+保修期剩余134天(202
+名称
+日系统内存
+Windows服务主进程
+系统
+凸
+联想电脑管家
+系统
+74%
+向日葵
+较高
+钉钉
+Google Chrome
+5.8GB
+7
+dwm
+系统
+已用内存
+☑
+腾讯QQ
+键加道
+Microsoft Edge
+系统
+Microsoft Windows Search索I器
+系统
+保修期剩余134天(202
+名称
+日系统内存
+Windows服务主进程
+系统
+凸
+联想电脑管家
+系统
+75%
+向日葵
+较高
+钉钉
+Google Chrome
+5.9GB
+7
+dwm
+系统
+已用内存
+☑
+腾讯QQ
+键加道
+Microsoft Edge
+系统
+四
+PyCharm Community Edition
+拯救者Y70002019PG0
+硬件配置
+保修期剩余134天（2022-08-31)去延保⑦
+日系统内存
+39%
+凸
+CPU使用率
+母
+75%
+较高
+⊙2.5GHz
+865℃
+司
+Xiaomi8C6B…
+6 GB
+7.9GB
+已用内存
+本机内存
+键加速
+环境：无
+提交物：实验报
+取消
+全部已读
+无线通信技术
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-3000：00
+实验提交物
+实验手册
+无线通信技术
+暂无内容
+0
+交
+提交物：实验报告、成果物
+提交截止时间：2022-04-3000：00
+01实验一环境搭建及LED灯点亮
+未提交
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-2900：00
+专题讨论二：RFID应用
+已提交
+环境：无
+提交物：成果物
+提交截止时间：2022-04-2800：00
+专题讨论一如何建立基于无线通讯的物联网应用
+已提交
+环境：无
+提交物：成果物
+提交截止时间：2022-04-2600：00
+交
+提交物：实验报告、成果物
+提交截止时间：2022-04-3000：00
+01实验一环境搭建及LED灯点亮
+未提交
+01实验一环境搭建及LED灯点亮
+延文切·仅口、现仍
+提交截止时间：2022-04-2900：00
+专题讨论二：RFID应用
+已提交
+环境：无
+提交物：成果物
+提交截止时间：2022-04-2800：00
+专题讨论一如何建立基于无线通讯的物联网应用
+已提交
+环境：无
+提交物：成果物
+提交截止时间：2022-04-2600：00
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-2900：00
+实验提交物
+实验手册
+必交
+成果物：20192203549魏树鸿(3).d0cX
+删除
+重新上传下载
+必交
+实验报告：20192203549魏树鸿(3).d0cX
+删除
+重新上传
+下载
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-2900：00
+实验提交物
+实验手册
+必交
+成果物：20192203549魏树鸿(3).d0cX
+删除
+重新上传下载
+必交
+实验报告：20192203549魏树鸿(3).d0CX
+删除
+重新上传
+下载
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-2900：00
+实验提交物
+实验手册
+必交
+删除实验报告
+×
+必交
+删除后将不可恢复确认要删除？
+确认除
+取消
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-2900：00
+实验提交物
+实验手册
+必交
+成果物：20192203549魏树鸿(3).d0CX
+删除
+重新上传下载
+必交
+个上传实验报告请上传20M以内的word文件
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-2900：00
+实验提交物
+实验手册
+必交
+删除成果物品
+×
+必交
+删除后将不可恢复确认要删除？
+确认除
+取消
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-2900：00
+实验提交物
+实验手册
+环境：无
+提交物：实验报告、成果物
+提交截止时间：2022-04-2900：00
+实验提交物
+实验手册
+无线通信技术
+无线通信技术
+实验手册
+无线通信技术
+实验手册
+青软实训物联网技术部
+【实验一】开发环境搭建及！
+目录
+实验一开发环境搭建及LED灯点亮
+实验目标
+实验内容
+实验设备
+【实验1-l】Keil uVision.4开发环境搭建
+知识点回顾
+功能描述
+实验步骤
+【实验一】开发环境搭建及
+目录
+实验一开发环境搭建及LED灯点亮
+实验目标
+实验内容
+实验设备
+【实验1-1】Keil uVision4开发环境搭建
+知识点回顾
+功能描述
+实验步骤
+【实验1-2】Keil uVision4环境配置
+知识点回顾
+功能描述
+实验步骤
+实验现象
+【实验1-3】点亮LED灯
+知识点回顾
+功能描述
+实验步骤
+实验现象
+英拉一开汉小現拾哇议
+目录
+实验一开发环境搭建及LED灯点亮
+实验目标
+实验内容
+实验设备
+【实验1-1】Keil uVision.4开发环境搭建
+知识点回顾
+功能描述
+实验步骤
+【实验1-2】Keil uVision4环境配置
+知识点回顾
+功能描述
+实验步骤
+实验现象
+【实验1-3】点亮LED灯
+知识点回顾
+功能描述
+实验步骤
+实验现象
+求
+实验一开发环境搭建及LED灯点亮
+实验目标
+实验内容
+实验设备
+【实验1-l】Keil uVision4开发环境搭建
+知识点回顾
+功能描述
+实验步骤
+【实验1-2】Keil uVision4环境配置
+知识点回顾
+功能描述
+实验步骤
+实验现象
+【实验1-3】点亮LED灯
+知识点回顾
+功能描述，
+实验步骤
+实验现象，
+【实验1-1】Keil uVision4开发环境搭建
+知识点回顾
+功能描述
+实验步骤
+【实验1-2】Keil uVision4环境配置
+知识点回顾
+功能描述
+实验步骤
+实验现象
+【实验1-3】点亮LED灯
+知识点回顾
+功能描述
+实验步骤
+实验现象
+●【实验1-1】Keil uVision4开发环境搭建
+·【实验1-2】Keil uVision4环境配置
+·【实验1-3】点亮LED灯
+实验设备
+RFD开发板
+计算机
+【实验1-1】Keil u Vision4开发环境搭建
+知识点回顺
+51常用开发工具
+·单片机基础知识
+功能描述
+在Windows中安装Keil uVision4开发环境并进行相关配置。
+3
+。51常用开发工具
+·单片机基础知识
+功能描述
+在Windows中安装Keil uVision4开发环境并进行相关配置。
+【实验一】开发环境搭建及！
+实验步骤
+1,使用KEIL uVision4开发环境，如图1-1所示。
+c51v952.e
+KEIL Lic.ex
+xe
+e
+图1-1ke1l软件和注册机
+2,双击c51v952.xe,开始安装Keil uVision4,如图1-2所示。
+Ihia SE I UP program may be used to updale a prevous prooudt nnafafeton
+However.you thould make a backup copy betore peoceedng
+It is recommended that you exita Windowa pograme before contnung with SETUP.
+Follow the instructions to complete the product installotion
+c Back
+Ned>》
+图1-2安装画面
+3,依次点击“下一步”，至如图1-3所示画面。点击“agree”。
+4
+THIS END USER LICENCE AGREEMENT (LICENCE)IS A LEGAL AGREEMENT
+BETWEEN YOU (EITHER A SINGLE INDIVIDUAL,OR SINGLE LEGAL ENTITY)AND
+ARM LIMITED ("ARM")FOR THE USE OF THE SOFTWARE ACCOMPANYING THIS
+LICENCE.ARM IS ONLY WILLING TO LICENSE THE SOFTWARE TO YOU ON
+THE TERMS IN THIS LICENCE.BY
+VING T AGDEE"AD AY INCTAIIING OD ATHED
+CIISING nD ODYTNG
+I agree to all the terms of the preceding License Agreement
+Keil uyiion4 Setup
+<Back
+Ne对)》
+Ca
+图1-3安装向导
+4,点击“Browse'”选择安装路径，推荐使用默认路径。点击“Nxt>”。如图1-4
+Setup Keil C51 Version 9.01
+Folder Selection
+Select the lolder where SE TUP will install hies.
+KE
+An ARM CO
+SETUP wall intall uViaion4 in the lollowng lolder.
+Toinstall to thi folder pre NeToinstall toa dferert foldet.pre Broweand selectnother
+folder
+D
+naton Folder
+C.KKeil
+Byowse.
+Kedl mVition4 Setup
+<Back
+Next >
+は壮
+图1-5填入个人信息
+6,开始安装，安装过程中….等待安装完成。安装完成，点击Fish即可。如
+图1-7所示。
+Setup Keil C51 Version 9.01
+Setup Status
+K티I
+An ARM Con
+Vision Setup is performing the requested operations.
+Install Files..
+Installing MAIN.C.
+一Koil HVision4 Setup
+<Back
+Next>x
+Car
+图1-6正在安装
+6
+<<Back
+Finish
+C
+图1-7安装完成
+7,安装完成后，需要对软件进行注册。打开注册机软件如图1-8所示。
+注意：w7版本以上的系统要以管理员身份运行注册机及KEL否测会破解注
+全季上k开发纹年，k4·C5V901
+文场编辅自指春的工具D想险0利
+相
+三打开封供
+新文は典
+海下秋
+c51V901
+连nk
+肥西
+Vison Setu
+打开《
+然鼎适达问的位置
+营©走行内
+这更得坪有报
+词库
+可事本市开流文件
+国PV视领
+腾路性硬理解据的
+目机强
+碧
+红正维纹件处
+细西片
+利剩运中
+2文档
+加生任8扫0
+小乐
+到元世」现势
+褐直细
+正板M
+香计算机
+订兵理将海电果世印
+盒本地鱼心4
+麦言0
+C工作D时
+一软特和它回
+刀
+0
+KE且山002位日期2008-2-27厘明三1742请日可2014-5-26期
+方式明
+应用程事大州175KB
+特D
+里名0
+图1-8以管理员身份运行注册机
+7
+License Management...
+Print Setup...
+Print..
+Ctrl-P
+Print Preview
+1 main.c
+2E实输槽Co0et1h
+3实检桶code\main.c
+4E实验槽codelctrl.c
+5实脸箱CODEMAIN.H
+6EA实输福CODEVCTRL.H
+图1-10进行注册
+【实验一】开发环境搭建及
+10,复制cD码到注册机中。如图1-11和1-12所示
+License Management
+Single-User License
+Floating License Floating License Adninistrator FlexLl License
+Customer Infommation
+ComouterID
+Name:
+eo Mcrosoft
+CID:
+C84M7WVCWZ
+Company:
+Microsoft
+Get LIC via Intem
+Email:
+12346
+New License ID Code (L中
+WH7Z9-4808SJRKOT-ROFHL-89HMA-W5GDQ
+Add LC
+Uninstal.
+Close
+Help
+图1-13完成注册
+12,由于本实验使用的STC芯片，所以在完成以上步骤后，需要将STC相关的数
+放入keil中。
+山“实验
+,实验1：环境塔建，开发环境，STC数掘库文件
+文件B编帽(E
+音看0)工具D帮助H
+组织甲
+包含到库中”
+共享”
+制录
+新建文件夹
+距
+同库
+名称
+修改日期
+B Leo
+UV4.CDB
+2010/8/30
+图计算机
+鸟系统(C)
+Gateface
+HL-232-340
+Intel
+Keil
+Keil_51
+OutPath
+围PerfLogs
+里Program Files
+1个对象
+图1-14STC数据库相关文件
+10
+【实验1-2】Keil u Vision4环境配置
+知识点回顾
+●
+C语言知识
+Keil uVision4使用
+功能描述
+新建工程，并进行相应的设置。
+11
+【实验一】开发环境搭建及
+实验步骤
+11
+【实验一】开发环境搭建及
+实验步骤
+风
+1,双击桌面的图标，打开keil。点击Project,.在弹出的例表中选择New uVi
+Project.…新建工程文件。
+uVision4
+Fille Edit View
+Project Flash Debug Peripherals Tools SVCS Window Help
+New uvision Project..
+面的●
+New Multi-Project Workspace...
+Open Project...
+Project
+Save Project in HVision format
+Close Project
+Export
+Manage
+Select Device for Target..
+Remove里em
+【实验一】开发环境搭建及
+2,选择文件位置和名称，点击“保存”
+Create New Project
+G●-D·keilproj0t
+组织”
+新速文件夹
+车计算机
+名称
+修改日期
+岛系统(C回
+口软件(D时
+设有与撞索条件匹配的项，
+口脑到
+口音刊
+昌DVD RW驱动路(G
+网培
+厚控制面版
+量回欧生
+keilproject
+STC11F32_RC522
+文件名业ED
+保存类型①
+Project Files ("uvproj)
+一隐收文件夹
+解存匀
+图1-17新建工程
+3,接下来进行设备型号的选择。由于本实验是使用的STC11F60还单片机，所以：
+该种型号，点击OK。
+Select Device for Target 'Target 1'
+图1-19添加启动文件
+5,建立完项目工程后需要在工程中添加文件。选择菜单【f1e】中的【new】,或
+击菜单栏下方的文件小图标来新建文件。
+C:\Users\Administrator Desktop\keil_project\LED.uvproj-uVision4
+File Edit View Project Flash Debug Peripherals Tools SVCS Window Help
+门官日a名造)中电容我深滨作作|边h
+回s●贤argt1
+可&品马◆的
+Project
+☐Text2
+日扫Target1
+由白Source Group1
+图1-20新建文件
+6,新建文件后将文件进行保存，保存为“main.c”文件。
+C:\Users\Administrator Desktop\keil_project\LED.uvproj-uVision4
+Eile
+Edit
+Project Flash
+Debug
+Peripherals
+Tools
+SvcS window
+Help
+内是角读读作限透uh
+Target 1
+曰公凸马◆触
+Project
+4国
+Text2
+日☐Target1
+由□Source Group1
+图1-21新建文件并保存
+Save As
+keil_project
+搜紫keil project
+组织”
+新建文件夹
+，
+☆收藏夹
+名称
+修改日期
+☑视级
+LED.plg
+2017/8/2215:58
+路下载
+LED.uvproj
+2017/8/2215:54
+圆最近访问的位置
+e main.c
+2017/8/2216:14
+图桌面
+STARTUP.A51
+2013/6/2410:27
+图桌面
+Prolect Tarpets:☐X◆4
+Groups:
+☐X
+Fles
+Xt f
+Tanget 1
+Source Group 1
+STARTUP A51
+Add Fles.
+Sda时Cument Tarpet
+Add Fles as mage...
+OK
+Cancel
+Help
+16
+【实验一】开发环境搭建及！
+图1-24将新建的文件添加到工程中
+【实验一】开发环境搭建及
+图1-24将新建的文件添加到工程中
+Add Files to Group 'Source Group 1'
+查找范围血)：
+keil_project
+A
+名称
+修改日期
+开
+cmain.c
+2017/8/2216:39
+文件名)：
+main.c
+Add
+文件类型)：C Source fi1e体.c)
+Close
+【实验一】开发环境搭建及！
+图1-25相关配置
+9,在弹出的对话框中选择output,选中“Create H正XFi1e”选项（用来生成HEX
+击“OK”,至此就完成了配置。
+Options for Target 'Target 1
+Device Targe
+Output
+isting User
+C51
+A51
+BL51 Loeate BL51 Mise Debue Utilitie
+Select Folder for Objects.
+Name of Executable:
+LED
+Crgate Executable:.\LED
+Debug Infommation
+Browse Information
+7 Create HE区d
+HEX Fomat:
+HEX-80
+CCreate Ubrary:.\LED.LIB
+厂Create Batch Fle
+OX
+Cancel
+Defaults
+Help
+图1-26选择正X选项
+LED
+RP1
+P11
+1
+LED
+P12
+23456789
+LEDA
+P13
+P14
+10K
+P15
+P16
+P17
+LED
+图1-27LED电路连接
+2.在新建的工程文件main.c中，写入相应代码如1-28所示
+#include <REG51.H>
+void delay_ms(int tms)
+int i;
+while(tms-)
+for(i=0;i<1000;i+)5
+}
+5日《
+6
+int i;
+7
+while(tms--)
+8白
+for(1=0;i<10
+图1-29编译工程代码
+Build Output
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+1 inking..·
+Program Size:data=9.0 xdata=o code=69
+creating hex file from "LED"...
+"LED"-0 Error(s),0 Warning(s).
+图1-29编译生成H正X文件
+4.使用STC ISP将正X文件下载到开发板。找到下载工具ISP,并解压到自己的
+20
+5.双击STC ISP V488.xe文件，运行下载器。运行后会看到图1-31所示的界面
+次设置MCU型号，打开文件，选择串口，设置串口，选择晶振，下载程序。
+sTC-P.exe www.STCMCU.com技术支特13922805190眺小平V4.88Beta
+程序文件四文件串口助手引工程文件
+NCU Type
+ream Fi】e:
+STCI1P6OXE
+0000
+EFYY
+地址
+000120的04060607000%0A0t0C0帅
+St2/少量2：0pF1。/打开文件C文件图内来用区域墙00)
+000000
+00000000
+0000000000
+0000000000
+配格地地0四)使验和
+000010
+0000000000000000000000000000
+打开文件前青和纪
+打开程序文件
+000060
+00000000
+00
+m
+00
+00
+m
+0000
+000000
+000030
+00000000000000000
+000000000
+0
+口打开文件前清和螺冲
+打井四又作】
+000040
+0000a000000000000a00000000000
+000050
+000000
+0000
+00
+0000
+00
+0000
+00
+00
+0
+000060
+00000m00
+0000
+000000
+0000000
+■0
+0
+000070
+0000000000
+00
+00
+00
+00
+00
+00
+0000
+0
+COM:COM9
+4
+n喜特室：11500
+000060
+00000000
+0000
+0000
+0000
+00000
+请程喜卧长装补率项使嘉技特率。量低技计率：2400习
+000090
+000000
+00
+00
+0
+00
+00
+0
+0
+0000A0
+00
+00
+0
+00
+00
+00
+0
+0
+0
+1a50
+8t4/步罐：设置本打加右下方"选项中的
+0000c0
+00
+0000
+00
+0
+品
+00
+00
+下次冷启功种源为：
+C内5第器
+金外界储融链
+0000t0
+00
+0
+sET五个用作行4.7，如用内择仍为国e为
+0000E0
+00
+00
+0
+0
+0
+上电复位抢如外的复位细时：
+GsC粉
+0000P0
+00
+0
+0
+00
+00
+000100
+0000000000000000000000000000
+样等t大号片a:以下可透1)：
+令阳由
+CLow
+下启.0/H.1:令与下数无关个等于0/0才同以下载程序
+程序文件有对长魔：
+下次下其用户应用醒序和时将数抵门小区一并村培除C器
+金凯
+启动系统拆高器后得相计性G复位和神纯民)：
+32760
+选项自定义下铁引靓机下载引检查V8项引自功增里引工
+数先点下按再W上电位冷启触
+低压只位电压01速议选言电压)。41W以下C3
+p下我
+6止」
+ka-wl/重复下就
+每取现和生时八E钉开在懂中区的文件，方使哥武徒用
+启触动内部香门胸后积止改香门陶分狮款
+厂当目标代码发生变化后自动调入文件，并立丽发送下载命令
+上电时自功用有关能数启功内部百门衡
+C TES
+单片机出拍的设是“.0/1”互下无联
+14。空闲状志时内单香门狗停止计教
+G TES
+P30/.D.
+些2串口欧以下玩端程用户店用片丙用户
+应用序
+束译片机在正常工作时5.0/外物舶是55/
+上电自功启助内配香门细的预分赖数
+256
+下我减功声音提示：舍四个即
+重复下数间间(
+成动计数
+C1r请关生m,5TC理.e件网冈站时升级
+图1-31程序界面和需要进行设置的选项
+【实验一】开发环境搭建与！
+8.选择设备管理器
+●●
+卡性里新丰州的室：车销
+安件5验电整春的工典D制的
+的置主货
+查看有关计算机的基本信息
+5验金蓝进性
+Mndows车
+ae7度振
+作洗学半
+后板千有6309 eroo Corpor5cn.程蓝花有丸。
+5量重汽置
+Service Fack I
+裤
+正周
+Ghost Win7 a64
+5琴
+Gotw71宽E64V295
+分录
+52wdom能
+处出
+Ime(o CorefTM 13-2310M CFU 2.10GHz 2.10 GHz
+可用
+金装大序山
+k00G6
+量作中0
+纯坐
+科位作军州
+士n中de
+提
+安有可用于纯里器的笔欢制空人
+生士士具
+计案称、装工作地配量
+图1-34设备管理器
+9.在设备管理器中查看串口
+à잘管器
+文件阳虞作到意看0量他的
+【实验一】开发环境搭建与！
+TC4 P.w.ww.STCMCU.122805190주)V4LB
+头学理dg:地单纳机得1
+程痒文林|之样儿串口迁1工程文件
+:e11桶a0消套验m实验其1开惯摆t
+C 11P0011
+t位/沙量与01。/打并交件度件来用运以W面)
+起他比0D)和
+开用序发件
+一P月位时相表年年
+打行卫艺作
+tp3/法+生GFgL,eBm选挥唐作口意高技注
+惠被特五
+青器试范品任林家火能香种常。量长玻静军
+2四”
+5t4/沙绩：使运本和右下方项中的选领
+播8大增堂：以下可话Lm):
+理序文件有发卡眉：5空
+下女下第用今店用花将裙门区一杆樱除C西石
+扇系袖银保因三等制神教烫位纯操配)：习
+项白安义下维|疾红下载给着C听顷引白动望引四r也
+St5/步被53m1nd/十下教先点下鞋老再上电夏位-为肩幼
+电또이2议选)A以TCr以p
+下重」8/停止
+厂写次T下数精重新面人已打开在罐口的文作：方顺面或使师
+合t内看门真后平止改看门购分销
+正阳m
+厂当日行代周发发赛化正身调入文并斜立样发送不乳合会
+上电时自功用有关想数叙购内够看门衡
+广白位0
+当质特家为国网
+14方和状志时内看门钩师止计精
+阳个
+国a】)
+了开
+上电合块自内醇看门栏情分和节
+习
+下转有功声信位并伊巨C和
+重下载率初m)5▣
+图1-38下载过程
+实验现象
+程序烧写入单片机中，下方的一排红灯会交替闪烁。
+码大下氧重新调人已打开在缓中区的文件：方衡雨或件师
+合内看门真后某止改看门购分销
+正阳食
+厂当日标代因发发赛化身调入空林裤方信左保不到合会
+上电时自助两有关想数解购内够看门滨
+广出位角
+当前特军为国网
+1县4空和状达时内动看门衡博止计鞋
+0阿个即
+上电合动动纳看门维招州分桶箱
+习
+下转功声箱维后世C图
+重目下载率制辉)5▣
+图1-38下载过程
+实验现象
+程序烧写入单片机中，下方的一排红灯会交替闪烁。
+图片、
+消息
+联系人
+空间
+动展
+章支建谢
+迹和
+管仲超19011985350379114：41
+玫瑰玫瑰]
+潘世龙1902198535651713：21
+转发文件"综合测评xs"(27.50KB)成
+好友动态
+11:56
+信息20韩宜静发表了说说
+来自
+儿子
+9:47
+哈哈哈哈哈哈哈
+19王淑晴
+7:01
+OK
+娇娇的相册小金屋
+7:00
+Q群管家：@全体成员起床学习啦！加
+GIF
+消息
+联系人
+空间
+和我
+各部个章支建谢
+管仲超19011985350379114：41
+党员
+玫瑰]玫瑰]
+图片、
+潘世龙1902198535651713：21
+动展
+转发文件"综合测评xs”(27.50KB)成
+迹和
+好友动态
+11:56
+信息20韩宜静发表了说说
+●
+儿子
+9:47
+哈哈哈哈哈哈哈
+19王淑晴
+7:01
+OK
+来自
+娇娇的相册小金屋
+7:00
+Q群管家：@全体成员起床学习啦！加
+GIF
+①
+出
+各位党员，按照通知要求，常态化开展“我和我
+部”作品征集活动，请各支部继续动员广大党员
+个人视角，以微视频、新媒体课件(H5)、图片、
+章、诗歌、歌曲等形式，讲好支部故事，生动展
+支部和党员十九大以来的发展变化、感人事迹和
+建设的好经验，具体要求请参考通知内容。
+谢谢大家享
+附件3：关于开知.docx(16KB)
+W
+来自群文件
+在线预览下载另存为转发三
+●●●
+个人视角，以微视频、新媒体课件(H)、图片、
+章、诗歌、歌曲等形式，讲好支部故事，生动展
+支部和党员十九大以来的发展变化、感人事迹和
+建设的好经验，具体要求请参考通知内容。
+谢谢大家
+附件3：关于开.知.docx(16KB)
+W
+来自群文件
+在线预览下载另存为转发三
+咱两个党小组每个小组至少交一份作品，位帅和
+组织安排好。多者不限，请大家积极参与。
+●●●
+建设的好经验，具体要求请参考通知内容。
+谢谢大家享
+W
+附件3：关于开.知.docx(16KB)
+来自群文件
+在线预览下载另存为转发三
+咱两个党小组每个小组至少交一份作品，位帅和
+组织安排好。多者不限，请大家积极参与。
+信息1901钱俊升
+收到，谢谢老师
+●●●
+W
+附件3：关于开知.docx(16KB)
+来自群文件
+在线预览下载另存为转发三
+咱两个党小组每个小组至少交一份作品，位帅和
+组织安排好。多者不限，请大家积极参与。
+零
+信息1901钱俊升
+收到，谢谢老师
+15:24:19
+信息1801位帅
+收到，谢谢老师
+●●●
+来自群文件
+在线预览下载另存为转发三
+咱两个党小组每个小组至少交一份作品，位帅和
+组织安排好。多者不限，请大家积极参与。
+信息1901钱俊升
+收到，谢谢老师
+15:24:19
+信息1801位帅
+收到，谢谢老师
+18-信息1801-刘胜强
+收到，谢谢老师
+●●●
+的件3：天于什..d0CX(16KB)
+W
+来自群文件
+在线预览下载另存为转发三
+咱两个党小组每个小组至少交一份作品，位帅和
+组织安排好。多者不限，请大家积极参与。
+信息1901钱俊升
+收到，谢谢老师
+15:24:19
+信息1801位帅
+收到，谢谢老师
+18-信息1801-刘胜强撤回了条消息
+的件3：天于什..d0CX(16KB)
+W
+来自群文件
+在线预览下载另存为转发三
+咱两个党小组每个小组至少交一份作品，位帅和
+组织安排好。多者不限，请大家积极参与。
+信息1901钱俊升
+收到，谢谢老师
+15:24:19
+信息1801位帅
+收到，谢谢老师
+18-信息1801-刘胜强撤回了条消息
+码大下氧重新调人已打开在缓中区的文件：方衡雨或件师
+合内看门真后某止改看门购分销
+正阳食
+厂当日标代因发发赛化身调入空林裤方信左保不到合会
+上电时自助两有关想数解购内够看门滨
+广出位角
+当前特军为国网
+1县4空和状达时内动看门衡博止计鞋
+0阿个即
+上电合动动纳看门维招州分桶箱
+习
+下转功声箱维后世C图
+重目下载率制辉)5▣
+图1-38下载过程
+实验现象
+程序烧写入单片机中，下方的一排红灯会交替闪烁。
+厂每丁数对重新调入已打开在理的文件，方衡面其件
+合纳看门向后平止草着门消分销
+厂当日行用东1化后后可入文件，并立东保下量合会
+上电白功纯有关智数保内的看门为
+当特家为国
+1:的利状这时内回看门有停止计带
+上地m门nコ
+时为日白通1C=hH地
+下转声信准行？因C重复T我审和国5二
+图1-38下载过程
+实验现象
+程序烧写入单片机中，下方的一排红灯会交替闪烁。
+码大下氧重新调人已打开在缓中区的文件：方衡雨或件师
+合内看门真后某止改看门购分销
+正阳食
+厂当日标代因发发赛化身调入空林裤方信左保不到合会
+上电时自助两有关想数解购内够看门滨
+广出位角
+当前特军为国网
+1县4空和状达时内动看门衡博止计鞋
+0阿个即
+上电合动动纳看门维招州分桶箱
+习
+下转功声箱维后世C图
+重目下载率制辉)5▣
+图1-38下载过程
+实验现象
+程序烧写入单片机中，下方的一排红灯会交替闪烁。
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+pic_path r"dashen_compressed.png"
+pic_path=r'111.png
+wern scrope(pic_path)
+print(wern)
+if wern0:
+ret loop(wern)
+if ret:
+print("邮件发送成功")
+else:
+print("邮件发送失败")
+times 1000
+num =0
+main
+〉
+while 1>if np.mean(gray-gray2)>2>if wern!=0
+周汝倩（周汝倩）
+张佳伟（张佳伟）
+雨李元朝（李元朝）
+孙网孙耀（孙耀）
+04-25
+®瞬钱俊升（钱俊升）
+银李宣辰（李宣辰）
+张永吉张永吉)园赵晴晴（赵晴晴）
+部
+04-15
+田恬老师（田恬）
+2022元气满满
+@所有学生实验一给那么长时间就这个质量？？全都重交，再交上来这个样子
+04-11
+了
+04-04
+昨
+日恬的直播：无线通讯技术0428T
+放”
+04-01
+NEW
+凸@
+校
+04-01
+e1:
+time.sleep(times)
+img=pyautogui.screenshot(region:=[370,300,800,570])#分别代表：左上角坐标，宽高
+#对获取的图片转换成二维矩阵形式，后再将RGB转成BGR
+#因为imshow,默认通道顺序是BGR,而pyautogui默认是RGB所以要转换一下，不然会有点问题
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+燕cv2.1 mshow"戴屏"gaX
+if num =1:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+gray2 cv2.cvtColor(cv2.imread('dashen_compressed.png'),cv2.COLOR_BGR2GRAY)
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+=main
+Data\Local\Programs\Python\Python38\python.exe""C:/Users/WEI SHU HONG/PycharmPi
+#对获取的图片转换成二维矩阵形式，后再将RGB转成BGR
+#因为imshow,默认通道顺序是BGR,而oyautoqui默认是RGB所以要转换一下，不然会有点问题
+img cv2.cvtColor(np.asarray(img),cv2.COLOR_RGB2BGR)
+gray cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+#cy2.imshow("截屏"qraY)
+if num =1:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+gray2 cv2.cvtColor(cv2.imread('dashen_compressed.png'),cv2.COLOR_BGR2GRAY)
+print(np.mean(gray-gray2))
+print(np.mean(gray gray2))
+print(np.mean(gray gray2))
+if np.mean(gray-gray2)>2:
+cv2.imwrite('dashen_compressed.png',gray,[cv2.IMWRITE_PNG_COMPRESSION,0]
+==main
+else:
+print("邮件发送失败")
+times 1000
+num =0
+else:
+times 2
+numnum +1
+==main 'while 1 if np.mean(gray-gray2)>2>else
+周汝倩（周汝倩）
+张佳伟（张佳伟）
+雨李元朝（李元朝）
+孙网孙耀（孙耀）
+04-25
+®瞬钱俊升（钱俊升）
+银李宣辰（李宣辰）
+张永吉张永吉)园赵晴晴（赵晴晴）
+部
+04-15
+田恬老师（田恬）
+2022元气满满
+@所有学生实验一给那么长时间就这个质量？？全都重交，再交上来这个样子
+04-11
+了
+04-04
+昨
+日恬的直播：无线通讯技术0428T
+放”
+04-01
+NEW
+凸@
+校
+04-01
+张永吉张永吉)赵晴晴（赵晴晴）
+田恬老师（田恬）
+2022元气满满4月28日14：56
+04-25
+@所有学生实验一给那么长时间就这个质量？？全都重交，再交上来这个样子
+了
+部
+04-15
+昨
+田恬的直播：无线通讯技术0428下
+04-11
+放”
+04-04
+田恬的直播：无
+04-01
+NEW
+凸ǒ@
+校
+04-01
+士古爸士古
+2022U两两4月∠8■14：56
+@所有学生实验一给那么长时间就这个质量？？全都重交，再交上来这个样子
+了
+04-25
+除
+田恬的直播：无线通讯技术0428T
+放”
+部
+04-15
+田恬的直播：无
+04-11
+田恬老师（田恬
+g2022元气满满
+欢迎大家来观看直播“无线通讯技术-RFID”。
+04-04
+04-01
+NEW
+@
+04-01
+放”
+田恬的直播：无
+田恬老师（田恬）
+82022元气满满
+04-25
+欢迎大家来观看直播“无线通讯技术-RFID”。
+部
+04-15
+钱俊升（钱俊升）
+俊升
+1
+04-11
+马梦苒（马梦苒
+1
+04-04
+04-01
+NEW
+凸
+@
+04-01
+田恬的直播：无
+田恬老师（田恬）
+g2022元气满满
+欢迎大家来观看直播“无线通讯技术-RFID”。
+04-25
+部
+04-15
+周汝倩（周汝倩）
+04-11
+4马梦苒（马梦苒）
+册钱俊升（钱俊升）
+04-04
+04-01
+NEW
+b@
+04-01
+田恬的直播：无
+田恬老师（田恬）
+2022元气满满
+欢迎大家来观看直播“无线通讯技术-RFID”。
+04-25
+部
+04-15
+x12
+幻刘鑫磊（刘鑫磊）丝杨湾
+王淑晴（王淑晴）
+王来远（王来远）
+04-11
+国
+路时正（路时正）
+烟李姐（李妲）
+册钱俊升（钱俊升）
+04-04
+e1
+04-01
+NEW
+b@
+04-01
+×22
+国王倩（任倩）
+张鹤张
+04-25
+光王层光（王层光）
+张宏国张宏国)
+锅李芮（李芮
+解赵琪（赵琪）刘室
+部
+04-15
+燃公浩然（公浩然）
+啊王淑晴（王淑晴）
+周汝倩（周汝倩
+金路时正（路时正
+04-11
+刘庆奥（文刘庆奥）
+庆奥
+1
+04-04
+04-01
+NEW
+⑧
+凸
+，@
+0自
+夜
+04-01
+×23
+烟刘庆奥（刘庆奥）
+04-25
+一侯相卿（侯相卿）
+王层光（王晨光）
+世潘世龙（潘世龙）
+锅李芮（李芮）
+部
+04-15
+姓杨澳昀（杨澳昀）
+燃公洁然（公浩然）
+脑孙丽杰（孙丽杰）
+改周汝倩（周汝倩）
+04-11
+李元朝（李元朝）
+元朝
+1
+04-04
+04-01
+NEW
+凸
+，@
+夜
+04-01
+×24
+李元朝（李元朝）
+刘庆
+04-25
+网王新珂（任新珂）
+。侯相卿（侯相卿
+Q李玉洁（李玉洁）
+世潘世龙（潘世龙）
+部
+04-15
+刘鑫磊（文刘鑫磊）
+战杨澳昀（杨澳昀）
+烟王来远（王来远）
+骑孙丽杰（孙丽杰）
+04-11
+仲超
+1
++1
+04-04
+04-01
+NEW
+⑧
+凸
+，@
+0自
+夜
+04-01
+×25
+管仲超（管仲超）
+李
+04-25
+王倩（王倩）
+张鹤（张鹤）
+嗣
+王亲
+既王晨光（王晨光）
+T张宏国张宏国)
+部
+04-15
+锅李芮（李芮
+国赵琪（赵琪）刘室
+燃公浩然（公浩然）
+啊王淑晴（王淑晴）
+04-11
+孙卓云孙卓云)
+卓云
+04-04
+04-01
+NEW
+凸
+@
+0自
+夜
+04-01
+×27
+李温腾（李温腾）
+孙库
+04-25
+雨李元朝（李元朝）
+刘庆奥（文刘庆奥）
+嗣王新珂（王新珂）
+。侯相卿（侯相卿
+部
+04-15
+Q李玉洁（李玉洁）
+世潘世龙（潘世龙）
+刘壁磊（刘鑫磊）
+蛀杨澳昀（杨澳昀）
+04-11
+俞雪锋（俞雪锋）
+雪锋
+1
+04-04
+04-01
+NEW
+凸
+@
+04-01
+×28
+罐俞雪锋（俞雪锋）
+李温
+04-25
+烟管仲超（管仲超）
+雨李元朝（李元朝）
+张鹤（张鹤）
+王新珂（王新珂）
+部
+04-15
+R张宏国张宏国)
+李玉洁（李玉洁）
+赵琪（赵琪
+幻刘鑫磊（刘鑫磊）
+04-11
+许允龙（许允龙）
+60D
+1
++1
+04-04
+04-01
+NEW
+⑧
+凸
+@
+0自
+夜
+04-01
+×29
+许允龙（许允龙）
+俞雪
+04-25
+孙卓云（孙卓云）
+烟管仲超（管仲超）
+玉王倩（王倩）
+张鹤（张鹤）
+王彩
+部
+04-15
+联王层光（王层光）张宏国张宏国)
+锅李芮（李芮
+超
+赵琪（赵琪）刘童
+04-11
+赵志永（赵志永）
+志永
+1
+04-04
+04-01
+NEW
+凸
+@
+夜
+04-01
+×32
+赵晴晴（赵晴晴）
+张值
+04-25
+墨许允龙（许允龙）
+罐俞雪锋（俞雪锋）
+烟管仲超（管仲超）
+雨李元朝（李元朝）
+部
+04-15
+张鹤（张鹤）
+王新珂（王新珂）
+A张宏国张宏国)
+Q李玉洁（李玉洁）
+04-11
+孙耀孙耀)
+孙耀
+1
++1
+04-04
+04-01
+NEW
+⑧
+凸
+，@
+0自
+夜
+04-01
+1
+x33
+。孙耀（孙耀）
+赵晴晴(
+04-25
+“赵志永（赵志永）
+感许允龙（许允龙）
+孙卓云（孙卓云）
+管仲超（管仲超）
+部
+04-15
+玉王倩（王倩）
+张鹤（张鹤）
+王
+王晨光（王晨光）
+张宏国张宏国)
+04-11
+李杰（李杰）
+盈在家办公中
+04-04
+04-01
+NEW
+凸
+@
+夜
+04-01
+x34
+②李杰（李杰）
+。孙耀（孙好
+04-25
+赵志永（赵志永）
+墨许允龙（许允龙）
+际孙卓云（孙卓云）
+烟管仲超（管仲超）
+部
+04-15
+玉王倩（王倩青）
+张鹤张鹤)嗣王亲
+王晨光（王晨光）双张宏国张宏国)
+04-11
+巩如哲（巩如哲）
+1
+04-04
+04-01
+NEW
+凸
+@
+夜
+04-01
+x35
+y巩如哲（巩如哲）©李才
+04-25
+#张佳伟（张佳伟）
+赵志永（赵志永）
+李温腾（李温腾）
+程孙卓云（孙卓云）
+部
+04-15
+刘庆奥（刘庆奥）
+王王倩（王倩）
+。侯相卿（侯相卿）
+王晨光（王晨光）
+04-11
+张永吉张永吉)
+1
+04-04
+04-01
+NEW
+⑧
+凸
+@
+0自
+夜
+04-01
+x36
+衡张永吉张永吉)巩
+04-25
+赵晴晴（赵晴晴）
+张佳伟（张佳伟）
+俞雪锋（俞雪锋）
+李温腾（李温腾）
+部
+04-15
+雨李元朝（李元朝）
+期刘庆奥（刘庆奥）
+网王新珂（王新珂）
+。侯相卿（侯相卿）
+04-11
+吴静雯（吴静雯）
+1
+04-04
+04-01
+NEW
+凸
+@
+0自
+夜
+04-01
+x37
+吴静雯（吴静雯）
+张
+04-25
+⑧李杰（李杰）
+网孙耀（孙耀）。赵睛
+赵志永（赵志永）
+许允龙（许允龙）
+部
+04-15
+际孙卓云（孙卓云）
+管仲超（管仲超）
+王倩（王倩
+张鹤（张鹤）
+同王彩
+04-11
+张龙潇（张龙潇
+1
+04-04
+04-01
+NEW
+凸
+@
+0自
+夜
+04-01
+x38
+张龙潇张龙潇)
+吴}
+04-25
+y巩如哲巩如哲)②李杰（李杰）
+孙限
+张佳伟（张佳伟）
+赵志永（赵志永）
+部
+04-15
+李温腾（李温腾）
+程孙卓云（孙卓云）
+刘庆奥（刘庆奥）
+王王倩（王倩）
+04-11
+秦鹏（秦鹏）
+秦鹏
+1
++1
+04-04
+04-01
+NEW
+⑧
+凸
+，@
+0自
+夜
+04-01
+x39
+。秦鹏（秦）
+测张龙漾
+04-25
+衡张永吉张永吉)
+y巩如哲（巩如哲）
+赵晴晴（赵晴晴）
+张佳伟（张佳伟）
+部
+04-15
+俞雪锋（俞雪锋）
+李温腾（李温腾）
+雨李元朝（李元朝）
+刘庆奥（刘庆奥）
+04-11
+张佳伟（张佳伟）
+佳伟
+1
+04-04
+04-01
+NEW
+凸
+，@
+夜
+04-01
+x40
+张佳伟张佳伟)x2
+04-25
+吴静雯（吴静雯）
+衡张永吉（张永吉）
+烟孙耀（孙耀）。
+赵晴晴（赵晴晴
+部
+04-15
+俞雪锋（俞雪锋）
+李温腾（李温腾）
+雨李元朝（李元朝）
+刘庆奥（刘庆奥）
+04-11
+张念辉（张念辉）
+念辉
+1
+04-04
+04-01
+NEW
+凸
+@
+夜
+04-01
+x41
+张念辉张念辉)
+张
+04-25
+圆张龙潇张龙潇)
+吴静雯（吴静雯）
+©李杰（李杰）
+。孙耀（孙耀）园
+赵睛
+部
+04-15
+许允龙（许允龙）
+俞雪锋（俞雪锋）
+烟管仲超（管仲超）
+雨李元朝（李元朝）
+04-11
+王新珂（王新珂）
+新珂
+0
+04-04
+04-01
+NEW
+凸
+@
+夜
+04-01
+04-25
+×41
+张念辉张念辉)
+张值
+张龙潇张龙潇)
+吴静雯（吴静雯）
+部
+04-15
+®李杰（李杰）
+烟孙耀（孙耀）。
+赵睛
+许允龙（许允龙）
+俞雪锋（俞雪锋）
+04-11
+燃管仲超（管仲超）
+雨李元朝（李元朝）
+04-04
+王新珂
+04-01
+NEW
+凸@
+校
+04-01
+解张念辉张念辉)
+#张佳
+张龙潇张龙潇)
+吴静雯（吴静雯）
+©李杰（李杰）
+孙。孙耀（孙耀）
+赵
+许允龙（许允龙）
+俞雪锋（俞雪锋）
+04-25
+烟管仲超（管仲超）
+雨李元朝（李元朝）
+部
+04-15
+王新珂
+04-11
+公浩然（公浩然）
+浩然
+在
+04-04
+04-01
+NEW
+凸
+@
+0自
+04-01
+田恬老师（田恬）
+2022元气满满
+@刘鑫磊（刘鑫磊联系我
+刘鑫磊（刘鑫磊）
+04-25
+田恬老师（田恬）
+2022元气满满
+课程签到提醒
+部
+04-15
+我发起了课程签到，请及时处理
+04-11
+签到结束时间：11：12
+立即签到
+04-04
+04-01
+NEW
+凸@
+自乃
+04-01
+9
+田恬老师（田恬
+2022元气满满
+课程签到提醒
+04-25
+我发起了课程签到，请及时处理
+签到结束时间：11：12
+部
+04-15
+签到结束
+04-11
+田恬老师老师发走
+04-04
+田恬搐撤
+04-01
+NEW
+b@
+同自
+04-01
