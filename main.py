@@ -2,9 +2,9 @@ from aip import AipOcr
 from mails import mail
 from mails import loop
 from qqmsg import sendqqmasg,autoclick
-APP_ID = "26070078"
-API_KEY = "th9yqrTGYuvC3xGysTNYGghr"
-SECRET_KEY = "mFqiwk79WFfWBY1UroQE4v7kbSU7WYyU"
+APP_ID = "c8"
+API_KEY = "tcqrTGYcGghr"
+SECRET_KEY = "mFqiwcoQEcSU7WYyU"
 import pyautogui
 import cv2
 import numpy as np
